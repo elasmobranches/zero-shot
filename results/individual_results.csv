@@ -1,0 +1,1592 @@
+클래스,파일명,예측_라벨,예측_클래스,신뢰도,정확_여부
+Western Corn Rootworms,Image_1.jpg,a photo of adult Corn Borers,Corn Borers,0.11328125,오류
+Western Corn Rootworms,Image_2.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.263671875,정확
+Western Corn Rootworms,Image_3.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.2314453125,정확
+Western Corn Rootworms,Image_4.jpg,a photo of adult Corn Earworms,Corn Earworms,0.154296875,오류
+Western Corn Rootworms,Image_5.jpg,a photo of egg Corn Borers,Corn Borers,0.10888671875,오류
+Western Corn Rootworms,Image_6.jpg,a photo of adult Corn Borers,Corn Borers,0.1884765625,오류
+Western Corn Rootworms,Image_7.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.38671875,정확
+Western Corn Rootworms,Image_8.jpg,a photo of adult Thrips,Thrips,0.234375,오류
+Western Corn Rootworms,Image_9.jpg,a photo of adult Corn Earworms,Corn Earworms,0.09375,오류
+Western Corn Rootworms,Image_10.jpg,a photo of adult Aphids,Aphids,0.26171875,오류
+Western Corn Rootworms,Image_11.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.07275390625,오류
+Western Corn Rootworms,Image_12.jpg,a photo of adult Thrips,Thrips,0.2021484375,오류
+Western Corn Rootworms,Image_14.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.380859375,정확
+Western Corn Rootworms,Image_16.jpg,a photo of egg Corn Borers,Corn Borers,0.328125,오류
+Western Corn Rootworms,Image_17.jpg,a photo of adult Aphids,Aphids,0.154296875,오류
+Western Corn Rootworms,Image_18.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1865234375,정확
+Western Corn Rootworms,Image_19.jpg,a photo of pupa Thrips,Thrips,0.12890625,오류
+Western Corn Rootworms,Image_20.png,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.421875,정확
+Western Corn Rootworms,Image_21.png,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.2001953125,정확
+Western Corn Rootworms,Image_22.jpg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.185546875,정확
+Western Corn Rootworms,Image_23.jpg,a photo of adult Aphids,Aphids,0.236328125,오류
+Western Corn Rootworms,Image_24.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.244140625,오류
+Western Corn Rootworms,Image_25.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1650390625,정확
+Western Corn Rootworms,Image_26.jpg,a photo of adult Thrips,Thrips,0.3125,오류
+Western Corn Rootworms,Image_27.gif,a photo of adult Aphids,Aphids,0.1376953125,오류
+Western Corn Rootworms,Image_28.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.162109375,오류
+Western Corn Rootworms,Image_29.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.482421875,정확
+Western Corn Rootworms,Image_30.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.35546875,정확
+Western Corn Rootworms,Image_31.jpg,a photo of egg Corn Borers,Corn Borers,0.205078125,오류
+Western Corn Rootworms,Image_32.jpg,a photo of egg Corn Borers,Corn Borers,0.1982421875,오류
+Western Corn Rootworms,Image_33.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.365234375,정확
+Western Corn Rootworms,Image_34.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1328125,정확
+Western Corn Rootworms,Image_35.gif,a photo of adult Thrips,Thrips,0.376953125,오류
+Western Corn Rootworms,Image_36.png,a photo of pupa Thrips,Thrips,0.2021484375,오류
+Western Corn Rootworms,Image_37.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.21875,정확
+Western Corn Rootworms,Image_38.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.1728515625,오류
+Western Corn Rootworms,Image_39.png,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.193359375,정확
+Western Corn Rootworms,Image_40.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.203125,정확
+Western Corn Rootworms,Image_41.jpg,a photo of adult Corn Borers,Corn Borers,0.1796875,오류
+Western Corn Rootworms,Image_42.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.279296875,정확
+Western Corn Rootworms,Image_43.jpg,a photo of larva Corn Earworms,Corn Earworms,0.1015625,오류
+Western Corn Rootworms,Image_44.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.365234375,정확
+Western Corn Rootworms,Image_45.png,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.439453125,정확
+Western Corn Rootworms,Image_46.jpg,a photo of egg Corn Borers,Corn Borers,0.267578125,오류
+Western Corn Rootworms,Image_47.jpg,a photo of egg Armyworms,Armyworms,0.271484375,오류
+Western Corn Rootworms,Image_48.png,a photo of adult Corn Borers,Corn Borers,0.345703125,오류
+Western Corn Rootworms,Image_49.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.298828125,정확
+Western Corn Rootworms,Image_50.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.12890625,정확
+Western Corn Rootworms,Image_51.png,a photo of pupa Armyworms,Armyworms,0.130859375,오류
+Western Corn Rootworms,Image_53.jpg,a photo of adult Corn Borers,Corn Borers,0.103515625,오류
+Western Corn Rootworms,Image_54.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2041015625,정확
+Western Corn Rootworms,Image_56.jpg,a photo of adult Corn Earworms,Corn Earworms,0.298828125,오류
+Western Corn Rootworms,Image_57.jpg,a photo of adult Corn Borers,Corn Borers,0.23046875,오류
+Western Corn Rootworms,Image_58.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1552734375,정확
+Western Corn Rootworms,Image_59.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.212890625,정확
+Western Corn Rootworms,Image_60.jpg,a photo of adult Aphids,Aphids,0.26171875,오류
+Western Corn Rootworms,Image_61.jpg,a photo of egg Corn Borers,Corn Borers,0.171875,오류
+Western Corn Rootworms,Image_62.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1474609375,정확
+Western Corn Rootworms,Image_63.png,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.4609375,정확
+Western Corn Rootworms,Image_64.gif,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.75390625,정확
+Western Corn Rootworms,Image_65.jpg,a photo of larva Corn Borers,Corn Borers,0.1689453125,오류
+Western Corn Rootworms,Image_66.jpg,a photo of egg Corn Borers,Corn Borers,0.10888671875,오류
+Western Corn Rootworms,Image_67.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2158203125,정확
+Western Corn Rootworms,Image_68.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1943359375,정확
+Western Corn Rootworms,Image_69.jpg,a photo of egg Corn Borers,Corn Borers,0.2119140625,오류
+Western Corn Rootworms,Image_70.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.482421875,오류
+Western Corn Rootworms,Image_71.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2451171875,정확
+Western Corn Rootworms,Image_72.jpg,a photo of egg Corn Borers,Corn Borers,0.1484375,오류
+Western Corn Rootworms,Image_73.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.162109375,정확
+Western Corn Rootworms,Image_74.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1298828125,정확
+Western Corn Rootworms,Image_75.jpg,a photo of adult Aphids,Aphids,0.26171875,오류
+Western Corn Rootworms,Image_76.jpg,a photo of adult Corn Borers,Corn Borers,0.349609375,오류
+Western Corn Rootworms,Image_77.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.20703125,정확
+Western Corn Rootworms,Image_78.jpg,a photo of adult Thrips,Thrips,0.302734375,오류
+Western Corn Rootworms,Image_79.jpg,a photo of egg Corn Borers,Corn Borers,0.193359375,오류
+Western Corn Rootworms,Image_80.jpg,a photo of egg Corn Borers,Corn Borers,0.2158203125,오류
+Western Corn Rootworms,Image_81.jpg,a photo of egg Corn Borers,Corn Borers,0.443359375,오류
+Western Corn Rootworms,Image_82.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.244140625,정확
+Western Corn Rootworms,Image_83.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.2138671875,정확
+Western Corn Rootworms,Image_84.jpg,a photo of egg Corn Borers,Corn Borers,0.26953125,오류
+Western Corn Rootworms,Image_85.jpg,a photo of adult Aphids,Aphids,0.197265625,오류
+Western Corn Rootworms,Image_86.jpg,a photo of larva Armyworms,Armyworms,0.1259765625,오류
+Western Corn Rootworms,Image_87.jpg,a photo of adult Corn Borers,Corn Borers,0.1787109375,오류
+Western Corn Rootworms,Image_88.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.34765625,정확
+Western Corn Rootworms,Image_89.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.73046875,정확
+Western Corn Rootworms,Image_90.png,a photo of adult Corn Borers,Corn Borers,0.345703125,오류
+Western Corn Rootworms,Image_92.png,a photo of egg Corn Borers,Corn Borers,0.33984375,오류
+Western Corn Rootworms,Image_93.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.126953125,오류
+Western Corn Rootworms,Image_94.jpg,a photo of egg Corn Borers,Corn Borers,0.259765625,오류
+Western Corn Rootworms,Image_95.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.43359375,오류
+Western Corn Rootworms,Image_96.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.10498046875,오류
+Western Corn Rootworms,Image_97.jpg,a photo of adult Armyworms,Armyworms,0.240234375,오류
+Western Corn Rootworms,Image_107.jpg,a photo of larva Corn Borers,Corn Borers,0.09521484375,오류
+Western Corn Rootworms,Image_109.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2021484375,오류
+Western Corn Rootworms,Image_110.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.12890625,정확
+Western Corn Rootworms,Image_111.jpg,a photo of egg Corn Borers,Corn Borers,0.3046875,오류
+Western Corn Rootworms,Image_114.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.12890625,정확
+Western Corn Rootworms,Image_115.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1865234375,정확
+Western Corn Rootworms,Image_116.jpg,a photo of egg Corn Earworms,Corn Earworms,0.2109375,오류
+Western Corn Rootworms,Image_119.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.2314453125,오류
+Citrus Canker,Image_2.jpg,a photo of Citrus Canker,Citrus Canker,0.984375,정확
+Citrus Canker,Image_3.jpg,a photo of pupa Spider Mites,Spider Mites,0.142578125,오류
+Citrus Canker,Image_4.png,a photo of pupa Spider Mites,Spider Mites,0.287109375,오류
+Citrus Canker,Image_5.jpg,a photo of Citrus Canker,Citrus Canker,0.30078125,정확
+Citrus Canker,Image_6.jpg,a photo of Citrus Canker,Citrus Canker,0.36328125,정확
+Citrus Canker,Image_7.jpg,a photo of Citrus Canker,Citrus Canker,0.83984375,정확
+Citrus Canker,Image_9.jpg,a photo of Citrus Canker,Citrus Canker,0.8828125,정확
+Citrus Canker,Image_10.jpg,a photo of egg Spider Mites,Spider Mites,0.56640625,오류
+Citrus Canker,Image_11.jpg,a photo of Citrus Canker,Citrus Canker,0.61328125,정확
+Citrus Canker,Image_12.jpg,a photo of Citrus Canker,Citrus Canker,0.6640625,정확
+Citrus Canker,Image_13.jpg,a photo of Citrus Canker,Citrus Canker,0.9453125,정확
+Citrus Canker,Image_14.jpg,a photo of adult Spider Mites,Spider Mites,0.220703125,오류
+Citrus Canker,Image_15.jpg,a photo of Citrus Canker,Citrus Canker,0.72265625,정확
+Citrus Canker,Image_16.jpg,a photo of Citrus Canker,Citrus Canker,0.54296875,정확
+Citrus Canker,Image_17.jpg,a photo of Citrus Canker,Citrus Canker,0.22265625,정확
+Citrus Canker,Image_18.jpg,a photo of Citrus Canker,Citrus Canker,0.384765625,정확
+Citrus Canker,Image_19.jpg,a photo of Citrus Canker,Citrus Canker,0.4296875,정확
+Citrus Canker,Image_20.jpg,a photo of Citrus Canker,Citrus Canker,0.796875,정확
+Citrus Canker,Image_21.jpg,a photo of Citrus Canker,Citrus Canker,0.95703125,정확
+Citrus Canker,Image_22.jpg,a photo of adult Spider Mites,Spider Mites,0.404296875,오류
+Citrus Canker,Image_23.jpg,a photo of Citrus Canker,Citrus Canker,0.2578125,정확
+Citrus Canker,Image_24.jpg,a photo of adult Spider Mites,Spider Mites,0.333984375,오류
+Citrus Canker,Image_25.jpg,a photo of egg Spider Mites,Spider Mites,0.2412109375,오류
+Citrus Canker,Image_26.jpg,a photo of Citrus Canker,Citrus Canker,0.5234375,정확
+Citrus Canker,Image_27.jpg,a photo of Citrus Canker,Citrus Canker,0.33203125,정확
+Citrus Canker,Image_28.jpg,a photo of Citrus Canker,Citrus Canker,0.318359375,정확
+Citrus Canker,Image_29.jpg,a photo of Citrus Canker,Citrus Canker,0.28515625,정확
+Citrus Canker,Image_30.jpg,a photo of Citrus Canker,Citrus Canker,0.1826171875,정확
+Citrus Canker,Image_31.jpg,a photo of larva Spider Mites,Spider Mites,0.1875,오류
+Citrus Canker,Image_32.jpg,a photo of Citrus Canker,Citrus Canker,0.5390625,정확
+Citrus Canker,Image_33.jpg,a photo of pupa Spider Mites,Spider Mites,0.34375,오류
+Citrus Canker,Image_34.jpg,a photo of Citrus Canker,Citrus Canker,0.357421875,정확
+Citrus Canker,Image_36.jpg,a photo of Citrus Canker,Citrus Canker,0.94921875,정확
+Citrus Canker,Image_37.png,a photo of adult Spider Mites,Spider Mites,0.3515625,오류
+Citrus Canker,Image_38.jpg,a photo of Citrus Canker,Citrus Canker,0.255859375,정확
+Citrus Canker,Image_39.jpg,a photo of adult Spider Mites,Spider Mites,0.376953125,오류
+Citrus Canker,Image_40.jpg,a photo of Citrus Canker,Citrus Canker,0.65625,정확
+Citrus Canker,Image_41.jpg,a photo of Citrus Canker,Citrus Canker,0.6484375,정확
+Citrus Canker,Image_42.jpg,a photo of pupa Spider Mites,Spider Mites,0.341796875,오류
+Citrus Canker,Image_43.jpg,a photo of Citrus Canker,Citrus Canker,0.56640625,정확
+Citrus Canker,Image_44.jpg,a photo of Citrus Canker,Citrus Canker,0.14453125,정확
+Citrus Canker,Image_45.png,a photo of pupa Spider Mites,Spider Mites,0.255859375,오류
+Citrus Canker,Image_46.jpg,a photo of Citrus Canker,Citrus Canker,0.609375,정확
+Citrus Canker,Image_47.jpg,a photo of Citrus Canker,Citrus Canker,0.34765625,정확
+Citrus Canker,Image_48.jpg,a photo of Citrus Canker,Citrus Canker,0.6953125,정확
+Citrus Canker,Image_49.jpg,a photo of egg Aphids,Aphids,0.279296875,오류
+Citrus Canker,Image_50.jpg,a photo of pupa Aphids,Aphids,0.3046875,오류
+Citrus Canker,Image_51.jpg,a photo of Citrus Canker,Citrus Canker,0.5703125,정확
+Citrus Canker,Image_52.jpg,a photo of pupa Spider Mites,Spider Mites,0.3828125,오류
+Citrus Canker,Image_53.jpg,a photo of Citrus Canker,Citrus Canker,0.6953125,정확
+Citrus Canker,Image_54.jpg,a photo of Citrus Canker,Citrus Canker,0.4296875,정확
+Citrus Canker,Image_55.jpg,a photo of egg Spider Mites,Spider Mites,0.130859375,오류
+Citrus Canker,Image_56.jpg,a photo of Citrus Canker,Citrus Canker,0.83984375,정확
+Citrus Canker,Image_57.jpg,a photo of pupa Spider Mites,Spider Mites,0.2099609375,오류
+Citrus Canker,Image_58.jpg,a photo of Citrus Canker,Citrus Canker,0.6328125,정확
+Citrus Canker,Image_59.jpg,a photo of Citrus Canker,Citrus Canker,0.2041015625,정확
+Citrus Canker,Image_60.jpg,a photo of Citrus Canker,Citrus Canker,0.98828125,정확
+Citrus Canker,Image_61.jpg,a photo of Citrus Canker,Citrus Canker,0.91015625,정확
+Citrus Canker,Image_62.jpg,a photo of Citrus Canker,Citrus Canker,0.365234375,정확
+Citrus Canker,Image_63.jpg,a photo of Citrus Canker,Citrus Canker,0.201171875,정확
+Citrus Canker,Image_64.jpg,a photo of Citrus Canker,Citrus Canker,0.318359375,정확
+Citrus Canker,Image_65.jpg,a photo of Citrus Canker,Citrus Canker,0.98046875,정확
+Citrus Canker,Image_66.jpg,a photo of Citrus Canker,Citrus Canker,0.60546875,정확
+Citrus Canker,Image_67.jpg,a photo of Citrus Canker,Citrus Canker,0.828125,정확
+Citrus Canker,Image_68.jpg,a photo of Citrus Canker,Citrus Canker,0.98828125,정확
+Citrus Canker,Image_69.jpg,a photo of egg Spider Mites,Spider Mites,0.546875,오류
+Citrus Canker,Image_70.jpg,a photo of Citrus Canker,Citrus Canker,0.515625,정확
+Citrus Canker,Image_71.jpg,a photo of adult Spider Mites,Spider Mites,0.2578125,오류
+Citrus Canker,Image_72.jpg,a photo of egg Spider Mites,Spider Mites,0.2470703125,오류
+Citrus Canker,Image_73.jpg,a photo of Citrus Canker,Citrus Canker,0.55078125,정확
+Citrus Canker,Image_74.jpg,a photo of Citrus Canker,Citrus Canker,0.419921875,정확
+Citrus Canker,Image_75.jpg,a photo of Citrus Canker,Citrus Canker,0.64453125,정확
+Citrus Canker,Image_76.jpg,a photo of Citrus Canker,Citrus Canker,0.78125,정확
+Citrus Canker,Image_78.jpg,a photo of adult Spider Mites,Spider Mites,0.310546875,오류
+Citrus Canker,Image_79.jpg,a photo of adult Spider Mites,Spider Mites,0.3046875,오류
+Citrus Canker,Image_80.jpg,a photo of Citrus Canker,Citrus Canker,0.51171875,정확
+Citrus Canker,Image_82.jpg,a photo of egg Spider Mites,Spider Mites,0.318359375,오류
+Citrus Canker,Image_84.jpg,a photo of Citrus Canker,Citrus Canker,0.7109375,정확
+Citrus Canker,Image_86.jpg,a photo of Citrus Canker,Citrus Canker,0.234375,정확
+Citrus Canker,Image_87.jpg,a photo of Citrus Canker,Citrus Canker,0.375,정확
+Citrus Canker,Image_89.jpg,a photo of egg Fruit Flies,Fruit Flies,0.416015625,오류
+Citrus Canker,Image_90.jpg,a photo of larva Spider Mites,Spider Mites,0.27734375,오류
+Citrus Canker,Image_91.jpg,a photo of Citrus Canker,Citrus Canker,0.55859375,정확
+Citrus Canker,Image_93.jpg,a photo of Citrus Canker,Citrus Canker,0.80078125,정확
+Citrus Canker,Image_94.jpg,a photo of egg Spider Mites,Spider Mites,0.271484375,오류
+Citrus Canker,Image_95.jpg,a photo of Citrus Canker,Citrus Canker,0.58203125,정확
+Citrus Canker,Image_96.jpg,a photo of pupa Spider Mites,Spider Mites,0.28125,오류
+Citrus Canker,Image_97.jpg,a photo of Citrus Canker,Citrus Canker,0.62890625,정확
+Citrus Canker,Image_100.jpg,a photo of Citrus Canker,Citrus Canker,0.373046875,정확
+Citrus Canker,Image_102.jpg,a photo of adult Spider Mites,Spider Mites,0.34375,오류
+Citrus Canker,Image_104.jpg,a photo of pupa Spider Mites,Spider Mites,0.349609375,오류
+Citrus Canker,Image_105.jpg,a photo of Citrus Canker,Citrus Canker,0.46875,정확
+Citrus Canker,Image_107.jpg,a photo of Citrus Canker,Citrus Canker,0.8125,정확
+Citrus Canker,Image_108.jpg,a photo of adult Spider Mites,Spider Mites,0.5625,오류
+Citrus Canker,Image_110.jpg,a photo of egg Corn Borers,Corn Borers,0.1572265625,오류
+Citrus Canker,Image_112.jpg,a photo of egg Spider Mites,Spider Mites,0.34765625,오류
+Citrus Canker,Image_113.jpg,a photo of Citrus Canker,Citrus Canker,0.2578125,정확
+Citrus Canker,Image_114.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.353515625,오류
+Citrus Canker,Image_115.jpg,a photo of Citrus Canker,Citrus Canker,0.80078125,정확
+Citrus Canker,Image_116.jpg,a photo of Citrus Canker,Citrus Canker,0.412109375,정확
+Citrus Canker,Image_117.jpg,a photo of egg Aphids,Aphids,0.1552734375,오류
+Citrus Canker,Image_118.jpg,a photo of pupa Spider Mites,Spider Mites,0.287109375,오류
+Citrus Canker,Image_119.jpg,a photo of Citrus Canker,Citrus Canker,0.14453125,정확
+Citrus Canker,Image_120.jpg,a photo of egg Spider Mites,Spider Mites,0.27734375,오류
+Fruit Flies,Image_1.jpg,a photo of egg Corn Borers,Corn Borers,0.1806640625,오류
+Fruit Flies,Image_2.jpg,a photo of egg Fruit Flies,Fruit Flies,0.57421875,정확
+Fruit Flies,Image_3.jpg,a photo of adult Fruit Flies,Fruit Flies,0.69921875,정확
+Fruit Flies,Image_4.jpg,a photo of adult Fruit Flies,Fruit Flies,0.24609375,정확
+Fruit Flies,Image_5.jpg,a photo of adult Fruit Flies,Fruit Flies,0.546875,정확
+Fruit Flies,Image_6.jpg,a photo of egg Fruit Flies,Fruit Flies,0.78125,정확
+Fruit Flies,Image_7.jpg,a photo of egg Fruit Flies,Fruit Flies,0.388671875,정확
+Fruit Flies,Image_8.jpg,a photo of adult Fruit Flies,Fruit Flies,0.408203125,정확
+Fruit Flies,Image_9.jpg,a photo of egg Fruit Flies,Fruit Flies,0.4453125,정확
+Fruit Flies,Image_10.jpg,a photo of larva Aphids,Aphids,0.1357421875,오류
+Fruit Flies,Image_11.jpg,a photo of adult Thrips,Thrips,0.404296875,오류
+Fruit Flies,Image_12.jpg,a photo of egg Fruit Flies,Fruit Flies,0.326171875,정확
+Fruit Flies,Image_13.jpg,a photo of adult Fruit Flies,Fruit Flies,0.59765625,정확
+Fruit Flies,Image_14.JPG,a photo of adult Fruit Flies,Fruit Flies,0.52734375,정확
+Fruit Flies,Image_15.jpg,a photo of adult Fruit Flies,Fruit Flies,0.67578125,정확
+Fruit Flies,Image_16.jpg,a photo of egg Fruit Flies,Fruit Flies,0.27734375,정확
+Fruit Flies,Image_17.jpg,a photo of egg Fruit Flies,Fruit Flies,0.1748046875,정확
+Fruit Flies,Image_18.jpg,a photo of pupa Aphids,Aphids,0.11962890625,오류
+Fruit Flies,Image_19.png,a photo of adult Fruit Flies,Fruit Flies,0.423828125,정확
+Fruit Flies,Image_21.jpg,a photo of egg Fruit Flies,Fruit Flies,0.2236328125,정확
+Fruit Flies,Image_22.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.15625,정확
+Fruit Flies,Image_23.jpg,a photo of egg Corn Borers,Corn Borers,0.166015625,오류
+Fruit Flies,Image_24.jpg,a photo of adult Fruit Flies,Fruit Flies,0.333984375,정확
+Fruit Flies,Image_26.jpg,a photo of pupa Aphids,Aphids,0.08056640625,오류
+Fruit Flies,Image_27.jpeg,a photo of egg Fruit Flies,Fruit Flies,0.77734375,정확
+Fruit Flies,Image_28.JPG,a photo of adult Fruit Flies,Fruit Flies,0.5,정확
+Fruit Flies,Image_29.jpg,a photo of adult Fruit Flies,Fruit Flies,0.486328125,정확
+Fruit Flies,Image_30.jpg,a photo of adult Fruit Flies,Fruit Flies,0.1396484375,정확
+Fruit Flies,Image_31.jpg,a photo of egg Corn Borers,Corn Borers,0.232421875,오류
+Fruit Flies,Image_32.jpg,a photo of adult Corn Borers,Corn Borers,0.130859375,오류
+Fruit Flies,Image_33.jpg,a photo of adult Fruit Flies,Fruit Flies,0.330078125,정확
+Fruit Flies,Image_34.JPG,a photo of pupa Aphids,Aphids,0.45703125,오류
+Fruit Flies,Image_35.jpg,a photo of adult Fruit Flies,Fruit Flies,0.609375,정확
+Fruit Flies,Image_36.jpg,a photo of egg Fruit Flies,Fruit Flies,0.294921875,정확
+Fruit Flies,Image_37.jpg,a photo of egg Fruit Flies,Fruit Flies,0.796875,정확
+Fruit Flies,Image_38.jpg,a photo of egg Corn Borers,Corn Borers,0.158203125,오류
+Fruit Flies,Image_39.jpg,a photo of adult Fruit Flies,Fruit Flies,0.53125,정확
+Fruit Flies,Image_40.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.4453125,정확
+Fruit Flies,Image_42.jpg,a photo of adult Fruit Flies,Fruit Flies,0.640625,정확
+Fruit Flies,Image_44.jpg,a photo of adult Fruit Flies,Fruit Flies,0.396484375,정확
+Fruit Flies,Image_45.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.328125,오류
+Fruit Flies,Image_46.jpg,a photo of adult Fruit Flies,Fruit Flies,0.30859375,정확
+Fruit Flies,Image_48.jpg,a photo of adult Fruit Flies,Fruit Flies,0.54296875,정확
+Fruit Flies,Image_49.jpg,a photo of egg Fruit Flies,Fruit Flies,0.37109375,정확
+Fruit Flies,Image_50.jpg,a photo of adult Fruit Flies,Fruit Flies,0.36328125,정확
+Fruit Flies,Image_53.jpg,a photo of adult Fruit Flies,Fruit Flies,0.2470703125,정확
+Fruit Flies,Image_54.png,a photo of pupa Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.1845703125,오류
+Fruit Flies,Image_55.jpg,a photo of adult Fruit Flies,Fruit Flies,0.54296875,정확
+Fruit Flies,Image_56.jpg,a photo of adult Fruit Flies,Fruit Flies,0.375,정확
+Fruit Flies,Image_59.jpg,a photo of adult Fruit Flies,Fruit Flies,0.515625,정확
+Fruit Flies,Image_60.jpg,a photo of egg Fruit Flies,Fruit Flies,0.349609375,정확
+Fruit Flies,Image_61.jpg,a photo of adult Thrips,Thrips,0.55078125,오류
+Fruit Flies,Image_62.jpg,a photo of egg Fruit Flies,Fruit Flies,0.43359375,정확
+Fruit Flies,Image_63.jpg,a photo of adult Fruit Flies,Fruit Flies,0.462890625,정확
+Fruit Flies,Image_64.jpg,a photo of adult Fruit Flies,Fruit Flies,0.298828125,정확
+Fruit Flies,Image_65.jpg,a photo of adult Fruit Flies,Fruit Flies,0.41015625,정확
+Fruit Flies,Image_67.jpg,a photo of adult Fruit Flies,Fruit Flies,0.451171875,정확
+Fruit Flies,Image_70.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.1064453125,정확
+Fruit Flies,Image_71.jpg,a photo of adult Fruit Flies,Fruit Flies,0.421875,정확
+Fruit Flies,Image_72.jpg,a photo of adult Fruit Flies,Fruit Flies,0.60546875,정확
+Fruit Flies,Image_73.jpg,a photo of egg Fruit Flies,Fruit Flies,0.474609375,정확
+Fruit Flies,Image_74.jpg,a photo of adult Fruit Flies,Fruit Flies,0.6171875,정확
+Fruit Flies,Image_75.jpg,a photo of adult Fruit Flies,Fruit Flies,0.337890625,정확
+Fruit Flies,Image_76.png,a photo of pupa Fruit Flies,Fruit Flies,0.46875,정확
+Fruit Flies,Image_77.jpg,a photo of adult Fruit Flies,Fruit Flies,0.2451171875,정확
+Fruit Flies,Image_79.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.482421875,정확
+Fruit Flies,Image_80.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.400390625,정확
+Fruit Flies,Image_81.jpg,a photo of egg Fruit Flies,Fruit Flies,0.85546875,정확
+Fruit Flies,Image_82.jpg,a photo of adult Fruit Flies,Fruit Flies,0.400390625,정확
+Fruit Flies,Image_83.png,a photo of egg Fruit Flies,Fruit Flies,0.53515625,정확
+Fruit Flies,Image_84.jpg,a photo of adult Fruit Flies,Fruit Flies,0.57421875,정확
+Fruit Flies,Image_85.jpg,a photo of egg Corn Borers,Corn Borers,0.173828125,오류
+Fruit Flies,Image_86.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.46484375,정확
+Fruit Flies,Image_87.jpg,a photo of egg Fruit Flies,Fruit Flies,0.69140625,정확
+Fruit Flies,Image_88.jpg,a photo of adult Fruit Flies,Fruit Flies,0.23828125,정확
+Fruit Flies,Image_89.jpg,a photo of egg Fruit Flies,Fruit Flies,0.39453125,정확
+Fruit Flies,Image_90.jpg,a photo of adult Fruit Flies,Fruit Flies,0.75390625,정확
+Fruit Flies,Image_91.jpg,a photo of adult Fruit Flies,Fruit Flies,0.76953125,정확
+Fruit Flies,Image_92.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.333984375,오류
+Fruit Flies,Image_94.jpg,a photo of egg Fruit Flies,Fruit Flies,0.30859375,정확
+Fruit Flies,Image_95.jpg,a photo of adult Fruit Flies,Fruit Flies,0.1923828125,정확
+Fruit Flies,Image_96.jpg,a photo of adult Fruit Flies,Fruit Flies,0.349609375,정확
+Fruit Flies,Image_97.jpg,a photo of adult Thrips,Thrips,0.47265625,오류
+Fruit Flies,Image_98.jpg,a photo of egg Fruit Flies,Fruit Flies,0.625,정확
+Fruit Flies,Image_99.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.275390625,정확
+Fruit Flies,Image_100.jpg,a photo of adult Fruit Flies,Fruit Flies,0.59375,정확
+Fruit Flies,Image_101.JPG,a photo of adult Fruit Flies,Fruit Flies,0.2314453125,정확
+Fruit Flies,Image_102.jpg,a photo of adult Fruit Flies,Fruit Flies,0.45703125,정확
+Fruit Flies,Image_103.jpg,a photo of adult Fruit Flies,Fruit Flies,0.21875,정확
+Fruit Flies,Image_104.jpg,a photo of adult Fruit Flies,Fruit Flies,0.54296875,정확
+Fruit Flies,Image_108.jpg,a photo of adult Fruit Flies,Fruit Flies,0.2265625,정확
+Fruit Flies,Image_109.png,a photo of adult Fruit Flies,Fruit Flies,0.4140625,정확
+Fruit Flies,Image_111.jpg,a photo of larva Fruit Flies,Fruit Flies,0.26171875,정확
+Fruit Flies,Image_112.jpg,a photo of adult Fruit Flies,Fruit Flies,0.255859375,정확
+Fruit Flies,Image_113.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.279296875,정확
+Fruit Flies,Image_114.jpg,a photo of adult Fruit Flies,Fruit Flies,0.71484375,정확
+Fruit Flies,Image_116.gif,a photo of adult Fruit Flies,Fruit Flies,0.5703125,정확
+Fruit Flies,Image_117.jpg,a photo of adult Fruit Flies,Fruit Flies,0.64453125,정확
+Fruit Flies,Image_118.jpg,a photo of egg Fruit Flies,Fruit Flies,0.51953125,정확
+Fruit Flies,Image_119.jpg,a photo of adult Corn Borers,Corn Borers,0.279296875,오류
+Fruit Flies,Image_120.jpg,a photo of adult Fruit Flies,Fruit Flies,0.2734375,정확
+Africanized Honey Bees (Killer Bees),Image_1.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.494140625,정확
+Africanized Honey Bees (Killer Bees),Image_2.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.55078125,정확
+Africanized Honey Bees (Killer Bees),Image_3.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.462890625,정확
+Africanized Honey Bees (Killer Bees),Image_4.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.51953125,정확
+Africanized Honey Bees (Killer Bees),Image_5.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.380859375,정확
+Africanized Honey Bees (Killer Bees),Image_6.png,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.68359375,정확
+Africanized Honey Bees (Killer Bees),Image_7.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.267578125,정확
+Africanized Honey Bees (Killer Bees),Image_8.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.77734375,정확
+Africanized Honey Bees (Killer Bees),Image_9.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.5390625,정확
+Africanized Honey Bees (Killer Bees),Image_10.jpg,a photo of adult Corn Borers,Corn Borers,0.138671875,오류
+Africanized Honey Bees (Killer Bees),Image_11.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.66015625,정확
+Africanized Honey Bees (Killer Bees),Image_12.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.51171875,정확
+Africanized Honey Bees (Killer Bees),Image_13.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.431640625,정확
+Africanized Honey Bees (Killer Bees),Image_14.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.345703125,정확
+Africanized Honey Bees (Killer Bees),Image_15.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.73828125,정확
+Africanized Honey Bees (Killer Bees),Image_16.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.396484375,정확
+Africanized Honey Bees (Killer Bees),Image_17.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.330078125,정확
+Africanized Honey Bees (Killer Bees),Image_19.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.59375,정확
+Africanized Honey Bees (Killer Bees),Image_20.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.482421875,정확
+Africanized Honey Bees (Killer Bees),Image_21.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.4296875,정확
+Africanized Honey Bees (Killer Bees),Image_22.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.30078125,정확
+Africanized Honey Bees (Killer Bees),Image_23.gif,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.5234375,정확
+Africanized Honey Bees (Killer Bees),Image_24.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.48046875,정확
+Africanized Honey Bees (Killer Bees),Image_25.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.470703125,정확
+Africanized Honey Bees (Killer Bees),Image_26.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.482421875,정확
+Africanized Honey Bees (Killer Bees),Image_27.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.37109375,정확
+Africanized Honey Bees (Killer Bees),Image_28.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.171875,정확
+Africanized Honey Bees (Killer Bees),Image_29.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.310546875,정확
+Africanized Honey Bees (Killer Bees),Image_30.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.458984375,정확
+Africanized Honey Bees (Killer Bees),Image_31.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.77734375,정확
+Africanized Honey Bees (Killer Bees),Image_32.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.52734375,정확
+Africanized Honey Bees (Killer Bees),Image_33.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.515625,정확
+Africanized Honey Bees (Killer Bees),Image_34.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.439453125,정확
+Africanized Honey Bees (Killer Bees),Image_35.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.3515625,정확
+Africanized Honey Bees (Killer Bees),Image_36.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.365234375,정확
+Africanized Honey Bees (Killer Bees),Image_37.png,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.439453125,정확
+Africanized Honey Bees (Killer Bees),Image_38.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.404296875,정확
+Africanized Honey Bees (Killer Bees),Image_39.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.5234375,정확
+Africanized Honey Bees (Killer Bees),Image_40.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.58203125,정확
+Africanized Honey Bees (Killer Bees),Image_41.jpg,a photo of pupa Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.421875,정확
+Africanized Honey Bees (Killer Bees),Image_42.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.53125,정확
+Africanized Honey Bees (Killer Bees),Image_43.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.55859375,정확
+Africanized Honey Bees (Killer Bees),Image_44.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.455078125,정확
+Africanized Honey Bees (Killer Bees),Image_45.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.490234375,정확
+Africanized Honey Bees (Killer Bees),Image_46.png,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.75,정확
+Africanized Honey Bees (Killer Bees),Image_47.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.45703125,정확
+Africanized Honey Bees (Killer Bees),Image_48.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.373046875,정확
+Africanized Honey Bees (Killer Bees),Image_49.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.494140625,정확
+Africanized Honey Bees (Killer Bees),Image_50.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.34765625,정확
+Africanized Honey Bees (Killer Bees),Image_51.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.490234375,정확
+Africanized Honey Bees (Killer Bees),Image_52.png,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.23046875,정확
+Africanized Honey Bees (Killer Bees),Image_54.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.48046875,정확
+Africanized Honey Bees (Killer Bees),Image_55.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.49609375,정확
+Africanized Honey Bees (Killer Bees),Image_56.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.474609375,정확
+Africanized Honey Bees (Killer Bees),Image_57.jpg,a photo of adult Corn Earworms,Corn Earworms,0.208984375,오류
+Africanized Honey Bees (Killer Bees),Image_59.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.63671875,정확
+Africanized Honey Bees (Killer Bees),Image_60.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.5234375,정확
+Africanized Honey Bees (Killer Bees),Image_61.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.390625,정확
+Africanized Honey Bees (Killer Bees),Image_62.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.59375,정확
+Africanized Honey Bees (Killer Bees),Image_63.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.55859375,정확
+Africanized Honey Bees (Killer Bees),Image_64.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.34375,정확
+Africanized Honey Bees (Killer Bees),Image_65.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.53125,정확
+Africanized Honey Bees (Killer Bees),Image_67.jpg,a photo of adult Corn Borers,Corn Borers,0.130859375,오류
+Africanized Honey Bees (Killer Bees),Image_68.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.439453125,정확
+Africanized Honey Bees (Killer Bees),Image_69.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.5234375,정확
+Africanized Honey Bees (Killer Bees),Image_70.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.70703125,정확
+Africanized Honey Bees (Killer Bees),Image_71.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.279296875,정확
+Africanized Honey Bees (Killer Bees),Image_72.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.6796875,정확
+Africanized Honey Bees (Killer Bees),Image_74.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.494140625,정확
+Africanized Honey Bees (Killer Bees),Image_75.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.54296875,정확
+Africanized Honey Bees (Killer Bees),Image_78.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.43359375,정확
+Africanized Honey Bees (Killer Bees),Image_79.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.388671875,정확
+Africanized Honey Bees (Killer Bees),Image_80.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.515625,정확
+Africanized Honey Bees (Killer Bees),Image_81.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.41015625,정확
+Africanized Honey Bees (Killer Bees),Image_82.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.341796875,정확
+Africanized Honey Bees (Killer Bees),Image_83.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.484375,정확
+Africanized Honey Bees (Killer Bees),Image_84.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.490234375,정확
+Africanized Honey Bees (Killer Bees),Image_85.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.35546875,정확
+Africanized Honey Bees (Killer Bees),Image_86.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.41796875,정확
+Africanized Honey Bees (Killer Bees),Image_87.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.44921875,정확
+Africanized Honey Bees (Killer Bees),Image_90.jpg,a photo of pupa Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.41796875,정확
+Africanized Honey Bees (Killer Bees),Image_91.jpg,a photo of egg Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.318359375,정확
+Africanized Honey Bees (Killer Bees),Image_92.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.31640625,정확
+Africanized Honey Bees (Killer Bees),Image_94.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.458984375,정확
+Africanized Honey Bees (Killer Bees),Image_95.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.53125,정확
+Africanized Honey Bees (Killer Bees),Image_96.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.71484375,정확
+Africanized Honey Bees (Killer Bees),Image_100.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.57421875,정확
+Africanized Honey Bees (Killer Bees),Image_102.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.494140625,정확
+Africanized Honey Bees (Killer Bees),Image_104.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.51171875,정확
+Africanized Honey Bees (Killer Bees),Image_105.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.51953125,정확
+Africanized Honey Bees (Killer Bees),Image_106.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.37890625,정확
+Africanized Honey Bees (Killer Bees),Image_107.png,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.482421875,정확
+Africanized Honey Bees (Killer Bees),Image_108.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.33203125,정확
+Africanized Honey Bees (Killer Bees),Image_110.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.453125,정확
+Africanized Honey Bees (Killer Bees),Image_116.jpg,a photo of adult Corn Borers,Corn Borers,0.2314453125,오류
+Africanized Honey Bees (Killer Bees),Image_117.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.46875,정확
+Africanized Honey Bees (Killer Bees),Image_120.jpg,a photo of adult Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.5234375,정확
+Aphids,Image_1.jpeg,a photo of adult Aphids,Aphids,0.40234375,정확
+Aphids,Image_2.JPG,a photo of adult Aphids,Aphids,0.5703125,정확
+Aphids,Image_4.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.15625,오류
+Aphids,Image_5.jpg,a photo of adult Aphids,Aphids,0.43359375,정확
+Aphids,Image_6.jpg,a photo of egg Aphids,Aphids,0.2021484375,정확
+Aphids,Image_7.jpg,a photo of egg Spider Mites,Spider Mites,0.171875,오류
+Aphids,Image_8.jpg,a photo of larva Corn Earworms,Corn Earworms,0.1572265625,오류
+Aphids,Image_9.jpg,a photo of adult Aphids,Aphids,0.322265625,정확
+Aphids,Image_10.jpg,a photo of adult Aphids,Aphids,0.283203125,정확
+Aphids,Image_11.jpg,a photo of egg Spider Mites,Spider Mites,0.234375,오류
+Aphids,Image_13.jpg,a photo of adult Spider Mites,Spider Mites,0.384765625,오류
+Aphids,Image_14.jpg,a photo of adult Aphids,Aphids,0.302734375,정확
+Aphids,Image_15.jpg,a photo of egg Aphids,Aphids,0.375,정확
+Aphids,Image_16.jpg,a photo of egg Aphids,Aphids,0.228515625,정확
+Aphids,Image_17.jpg,a photo of adult Aphids,Aphids,0.3359375,정확
+Aphids,Image_19.jpg,a photo of adult Aphids,Aphids,0.232421875,정확
+Aphids,Image_20.jpg,a photo of adult Aphids,Aphids,0.361328125,정확
+Aphids,Image_21.jpg,a photo of adult Aphids,Aphids,0.3359375,정확
+Aphids,Image_22.jpg,a photo of pupa Spider Mites,Spider Mites,0.1904296875,오류
+Aphids,Image_23.jpg,a photo of egg Corn Borers,Corn Borers,0.240234375,오류
+Aphids,Image_24.jpg,a photo of pupa Aphids,Aphids,0.24609375,정확
+Aphids,Image_25.jpg,a photo of adult Aphids,Aphids,0.314453125,정확
+Aphids,Image_26.jpg,a photo of egg Spider Mites,Spider Mites,0.15234375,오류
+Aphids,Image_27.jpg,a photo of adult Corn Earworms,Corn Earworms,0.298828125,오류
+Aphids,Image_28.JPG,a photo of Citrus Canker,Citrus Canker,0.376953125,오류
+Aphids,Image_29.JPG,a photo of Citrus Canker,Citrus Canker,0.53125,오류
+Aphids,Image_31.jpg,a photo of adult Aphids,Aphids,0.443359375,정확
+Aphids,Image_32.jpg,a photo of adult Aphids,Aphids,0.1875,정확
+Aphids,Image_33.jpg,a photo of egg Aphids,Aphids,0.33203125,정확
+Aphids,Image_34.jpg,a photo of adult Aphids,Aphids,0.58984375,정확
+Aphids,Image_35.jpg,a photo of adult Aphids,Aphids,0.5703125,정확
+Aphids,Image_36.jpg,a photo of adult Aphids,Aphids,0.453125,정확
+Aphids,Image_38.jpg,a photo of adult Aphids,Aphids,0.203125,정확
+Aphids,Image_39.jpg,a photo of adult Aphids,Aphids,0.306640625,정확
+Aphids,Image_40.jpg,a photo of egg Aphids,Aphids,0.1826171875,정확
+Aphids,Image_41.jpg,a photo of adult Aphids,Aphids,0.33984375,정확
+Aphids,Image_42.JPG,a photo of larva Spider Mites,Spider Mites,0.296875,오류
+Aphids,Image_43.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.39453125,오류
+Aphids,Image_44.jpg,a photo of egg Aphids,Aphids,0.15234375,정확
+Aphids,Image_46.jpg,a photo of egg Aphids,Aphids,0.375,정확
+Aphids,Image_50.jpg,a photo of adult Aphids,Aphids,0.1611328125,정확
+Aphids,Image_51.jpg,a photo of larva Corn Earworms,Corn Earworms,0.1435546875,오류
+Aphids,Image_52.jpg,a photo of egg Aphids,Aphids,0.3671875,정확
+Aphids,Image_53.jpg,a photo of pupa Aphids,Aphids,0.1591796875,정확
+Aphids,Image_54.jpg,a photo of egg Aphids,Aphids,0.208984375,정확
+Aphids,Image_55.jpg,a photo of egg Aphids,Aphids,0.375,정확
+Aphids,Image_56.jpg,a photo of adult Aphids,Aphids,0.26953125,정확
+Aphids,Image_57.jpeg,a photo of adult Spider Mites,Spider Mites,0.1611328125,오류
+Aphids,Image_58.jpg,a photo of adult Aphids,Aphids,0.416015625,정확
+Aphids,Image_61.jpg,a photo of egg Aphids,Aphids,0.1982421875,정확
+Aphids,Image_64.jpg,a photo of egg Aphids,Aphids,0.21875,정확
+Aphids,Image_65.jpg,a photo of egg Aphids,Aphids,0.275390625,정확
+Aphids,Image_68.jpg,a photo of egg Spider Mites,Spider Mites,0.15234375,오류
+Aphids,Image_69.jpg,a photo of egg Spider Mites,Spider Mites,0.10498046875,오류
+Aphids,Image_70.jpeg,a photo of pupa Spider Mites,Spider Mites,0.23828125,오류
+Aphids,Image_71.jpg,a photo of pupa Aphids,Aphids,0.28515625,정확
+Aphids,Image_75.jpg,a photo of adult Aphids,Aphids,0.357421875,정확
+Aphids,Image_76.jpg,a photo of adult Aphids,Aphids,0.19140625,정확
+Aphids,Image_77.jpg,a photo of adult Aphids,Aphids,0.267578125,정확
+Aphids,Image_78.jpg,a photo of adult Aphids,Aphids,0.1953125,정확
+Aphids,Image_79.jpg,a photo of pupa Spider Mites,Spider Mites,0.259765625,오류
+Aphids,Image_80.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1962890625,오류
+Aphids,Image_81.jpg,a photo of adult Corn Earworms,Corn Earworms,0.1552734375,오류
+Aphids,Image_82.jpg,a photo of adult Aphids,Aphids,0.2421875,정확
+Aphids,Image_83.jpg,a photo of egg Aphids,Aphids,0.2265625,정확
+Aphids,Image_84.jpg,a photo of larva Aphids,Aphids,0.2470703125,정확
+Aphids,Image_85.jpg,a photo of larva Corn Borers,Corn Borers,0.1640625,오류
+Aphids,Image_86.jpg,a photo of larva Aphids,Aphids,0.2470703125,정확
+Aphids,Image_87.jpg,a photo of adult Aphids,Aphids,0.31640625,정확
+Aphids,Image_88.jpg,a photo of egg Thrips,Thrips,0.240234375,오류
+Aphids,Image_89.jpg,a photo of adult Aphids,Aphids,0.337890625,정확
+Aphids,Image_90.jpg,a photo of egg Aphids,Aphids,0.32421875,정확
+Aphids,Image_91.jpg,a photo of egg Thrips,Thrips,0.1826171875,오류
+Aphids,Image_92.JPG,a photo of egg Tomato Hornworms,Tomato Hornworms,0.291015625,오류
+Aphids,Image_93.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.0732421875,오류
+Aphids,Image_95.jpg,a photo of adult Corn Earworms,Corn Earworms,0.20703125,오류
+Aphids,Image_97.jpeg,a photo of adult Aphids,Aphids,0.1806640625,정확
+Aphids,Image_99.jpg,a photo of larva Spider Mites,Spider Mites,0.1298828125,오류
+Aphids,Image_100.jpg,a photo of adult Aphids,Aphids,0.283203125,정확
+Aphids,Image_101.jpg,a photo of adult Aphids,Aphids,0.12158203125,정확
+Aphids,Image_102.jpg,a photo of larva Corn Earworms,Corn Earworms,0.146484375,오류
+Aphids,Image_103.jpg,a photo of adult Aphids,Aphids,0.3125,정확
+Aphids,Image_108.png,a photo of adult Aphids,Aphids,0.12451171875,정확
+Aphids,Image_110.png,a photo of adult Aphids,Aphids,0.2412109375,정확
+Aphids,Image_112.jpg,a photo of adult Aphids,Aphids,0.28125,정확
+Aphids,Image_114.jpg,a photo of adult Aphids,Aphids,0.361328125,정확
+Aphids,Image_115.gif,a photo of adult Aphids,Aphids,0.1875,정확
+Aphids,Image_120.jpg,a photo of adult Aphids,Aphids,0.1748046875,정확
+Colorado Potato Beetles,Image_1.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.73828125,정확
+Colorado Potato Beetles,Image_2.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.70703125,정확
+Colorado Potato Beetles,Image_3.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.62890625,정확
+Colorado Potato Beetles,Image_4.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5546875,정확
+Colorado Potato Beetles,Image_5.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.72265625,정확
+Colorado Potato Beetles,Image_6.jpeg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.494140625,정확
+Colorado Potato Beetles,Image_7.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.6875,정확
+Colorado Potato Beetles,Image_8.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5703125,정확
+Colorado Potato Beetles,Image_9.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.31640625,정확
+Colorado Potato Beetles,Image_10.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.6953125,정확
+Colorado Potato Beetles,Image_11.jpg,a photo of pupa Colorado Potato Beetles,Colorado Potato Beetles,0.453125,정확
+Colorado Potato Beetles,Image_12.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.72265625,정확
+Colorado Potato Beetles,Image_13.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.330078125,정확
+Colorado Potato Beetles,Image_14.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.482421875,정확
+Colorado Potato Beetles,Image_15.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.66796875,정확
+Colorado Potato Beetles,Image_16.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.47265625,정확
+Colorado Potato Beetles,Image_17.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.55859375,정확
+Colorado Potato Beetles,Image_18.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.56640625,정확
+Colorado Potato Beetles,Image_19.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.75,정확
+Colorado Potato Beetles,Image_20.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.55078125,정확
+Colorado Potato Beetles,Image_21.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.53515625,정확
+Colorado Potato Beetles,Image_22.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.298828125,정확
+Colorado Potato Beetles,Image_24.jpg,a photo of larva Colorado Potato Beetles,Colorado Potato Beetles,0.43359375,정확
+Colorado Potato Beetles,Image_25.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.359375,정확
+Colorado Potato Beetles,Image_26.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.298828125,정확
+Colorado Potato Beetles,Image_27.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.515625,정확
+Colorado Potato Beetles,Image_28.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5859375,정확
+Colorado Potato Beetles,Image_29.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.7421875,정확
+Colorado Potato Beetles,Image_30.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5703125,정확
+Colorado Potato Beetles,Image_31.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.546875,정확
+Colorado Potato Beetles,Image_32.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.7421875,정확
+Colorado Potato Beetles,Image_33.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.55859375,정확
+Colorado Potato Beetles,Image_34.jpg,a photo of adult Aphids,Aphids,0.376953125,오류
+Colorado Potato Beetles,Image_35.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.51953125,정확
+Colorado Potato Beetles,Image_36.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.396484375,정확
+Colorado Potato Beetles,Image_37.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.287109375,정확
+Colorado Potato Beetles,Image_38.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.359375,정확
+Colorado Potato Beetles,Image_39.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.578125,정확
+Colorado Potato Beetles,Image_40.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.76953125,정확
+Colorado Potato Beetles,Image_41.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.380859375,정확
+Colorado Potato Beetles,Image_42.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.7265625,정확
+Colorado Potato Beetles,Image_43.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.53125,정확
+Colorado Potato Beetles,Image_44.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.482421875,정확
+Colorado Potato Beetles,Image_45.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.55859375,정확
+Colorado Potato Beetles,Image_46.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.703125,정확
+Colorado Potato Beetles,Image_47.jpeg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.298828125,정확
+Colorado Potato Beetles,Image_49.JPG,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.38671875,정확
+Colorado Potato Beetles,Image_50.jpg,a photo of larva Colorado Potato Beetles,Colorado Potato Beetles,0.341796875,정확
+Colorado Potato Beetles,Image_51.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.46484375,정확
+Colorado Potato Beetles,Image_52.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5546875,정확
+Colorado Potato Beetles,Image_53.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.1396484375,정확
+Colorado Potato Beetles,Image_54.png,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.67578125,정확
+Colorado Potato Beetles,Image_55.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.765625,정확
+Colorado Potato Beetles,Image_56.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.453125,정확
+Colorado Potato Beetles,Image_57.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.7265625,정확
+Colorado Potato Beetles,Image_59.JPG,a photo of pupa Colorado Potato Beetles,Colorado Potato Beetles,0.2490234375,정확
+Colorado Potato Beetles,Image_60.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.369140625,정확
+Colorado Potato Beetles,Image_61.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.75,정확
+Colorado Potato Beetles,Image_62.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.28125,정확
+Colorado Potato Beetles,Image_63.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.64453125,정확
+Colorado Potato Beetles,Image_64.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.3984375,정확
+Colorado Potato Beetles,Image_65.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.39453125,정확
+Colorado Potato Beetles,Image_66.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.54296875,정확
+Colorado Potato Beetles,Image_67.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.404296875,정확
+Colorado Potato Beetles,Image_68.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.42578125,정확
+Colorado Potato Beetles,Image_69.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.388671875,정확
+Colorado Potato Beetles,Image_70.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5625,정확
+Colorado Potato Beetles,Image_72.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.578125,정확
+Colorado Potato Beetles,Image_73.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.380859375,정확
+Colorado Potato Beetles,Image_74.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.38671875,정확
+Colorado Potato Beetles,Image_75.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.37109375,정확
+Colorado Potato Beetles,Image_76.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.49609375,정확
+Colorado Potato Beetles,Image_77.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.60546875,정확
+Colorado Potato Beetles,Image_78.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.63671875,정확
+Colorado Potato Beetles,Image_79.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5625,정확
+Colorado Potato Beetles,Image_80.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.49609375,정확
+Colorado Potato Beetles,Image_81.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.46875,정확
+Colorado Potato Beetles,Image_82.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.421875,정확
+Colorado Potato Beetles,Image_83.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.162109375,정확
+Colorado Potato Beetles,Image_84.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.625,정확
+Colorado Potato Beetles,Image_85.jpg,a photo of Citrus Canker,Citrus Canker,0.38671875,오류
+Colorado Potato Beetles,Image_86.jpg,a photo of Citrus Canker,Citrus Canker,0.40234375,오류
+Colorado Potato Beetles,Image_87.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.455078125,정확
+Colorado Potato Beetles,Image_88.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.08740234375,정확
+Colorado Potato Beetles,Image_90.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.453125,정확
+Colorado Potato Beetles,Image_91.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5078125,정확
+Colorado Potato Beetles,Image_92.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.578125,정확
+Colorado Potato Beetles,Image_93.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.5546875,정확
+Colorado Potato Beetles,Image_94.jpg,a photo of adult Aphids,Aphids,0.2470703125,오류
+Colorado Potato Beetles,Image_95.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.73046875,정확
+Colorado Potato Beetles,Image_96.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.0927734375,오류
+Colorado Potato Beetles,Image_97.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.63671875,정확
+Colorado Potato Beetles,Image_98.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.8359375,정확
+Colorado Potato Beetles,Image_100.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.494140625,정확
+Colorado Potato Beetles,Image_102.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.51953125,정확
+Colorado Potato Beetles,Image_103.jpeg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.66796875,정확
+Colorado Potato Beetles,Image_104.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.404296875,정확
+Colorado Potato Beetles,Image_105.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.298828125,정확
+Colorado Potato Beetles,Image_106.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.50390625,정확
+Colorado Potato Beetles,Image_108.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.46484375,정확
+Colorado Potato Beetles,Image_109.png,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.39453125,정확
+Colorado Potato Beetles,Image_110.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.65625,정확
+Colorado Potato Beetles,Image_111.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.4140625,정확
+Colorado Potato Beetles,Image_112.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.388671875,정확
+Colorado Potato Beetles,Image_113.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.49609375,정확
+Colorado Potato Beetles,Image_114.png,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.609375,정확
+Colorado Potato Beetles,Image_115.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.2119140625,오류
+Colorado Potato Beetles,Image_116.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.58203125,정확
+Colorado Potato Beetles,Image_117.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.41015625,정확
+Colorado Potato Beetles,Image_118.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.62109375,정확
+Colorado Potato Beetles,Image_119.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.279296875,정확
+Colorado Potato Beetles,Image_120.jpg,a photo of adult Colorado Potato Beetles,Colorado Potato Beetles,0.6875,정확
+Thrips,Image_1.jpg,a photo of adult Thrips,Thrips,0.388671875,정확
+Thrips,Image_2.jpg,a photo of adult Thrips,Thrips,0.408203125,정확
+Thrips,Image_3.jpg,a photo of egg Aphids,Aphids,0.205078125,오류
+Thrips,Image_4.jpg,a photo of egg Corn Borers,Corn Borers,0.1416015625,오류
+Thrips,Image_5.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1943359375,오류
+Thrips,Image_6.jpg,a photo of adult Thrips,Thrips,0.396484375,정확
+Thrips,Image_7.jpg,a photo of adult Thrips,Thrips,0.31640625,정확
+Thrips,Image_8.jpg,a photo of egg Aphids,Aphids,0.201171875,오류
+Thrips,Image_9.jpg,a photo of adult Thrips,Thrips,0.62890625,정확
+Thrips,Image_10.jpg,a photo of adult Thrips,Thrips,0.2353515625,정확
+Thrips,Image_11.jpg,a photo of adult Thrips,Thrips,0.3984375,정확
+Thrips,Image_12.jpg,a photo of pupa Aphids,Aphids,0.2431640625,오류
+Thrips,Image_13.jpg,a photo of egg Corn Borers,Corn Borers,0.1767578125,오류
+Thrips,Image_14.jpeg,a photo of adult Thrips,Thrips,0.498046875,정확
+Thrips,Image_15.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.318359375,오류
+Thrips,Image_16.jpg,a photo of egg Corn Borers,Corn Borers,0.1572265625,오류
+Thrips,Image_17.jpg,a photo of adult Thrips,Thrips,0.318359375,정확
+Thrips,Image_18.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2734375,오류
+Thrips,Image_19.jpg,a photo of adult Spider Mites,Spider Mites,0.2421875,오류
+Thrips,Image_20.jpg,a photo of adult Aphids,Aphids,0.2177734375,오류
+Thrips,Image_21.jpg,a photo of adult Aphids,Aphids,0.259765625,오류
+Thrips,Image_22.jpg,a photo of adult Thrips,Thrips,0.2109375,정확
+Thrips,Image_23.jpg,a photo of adult Corn Borers,Corn Borers,0.451171875,오류
+Thrips,Image_24.jpg,a photo of adult Thrips,Thrips,0.205078125,정확
+Thrips,Image_25.jpg,a photo of pupa Aphids,Aphids,0.2294921875,오류
+Thrips,Image_26.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.3984375,오류
+Thrips,Image_27.jpg,a photo of adult Fruit Flies,Fruit Flies,0.28125,오류
+Thrips,Image_28.jpg,a photo of pupa Spider Mites,Spider Mites,0.1845703125,오류
+Thrips,Image_29.jpg,a photo of egg Thrips,Thrips,0.134765625,정확
+Thrips,Image_30.jpg,a photo of adult Aphids,Aphids,0.1689453125,오류
+Thrips,Image_31.jpg,a photo of larva Aphids,Aphids,0.091796875,오류
+Thrips,Image_32.jpg,a photo of egg Corn Borers,Corn Borers,0.25390625,오류
+Thrips,Image_33.jpg,a photo of adult Spider Mites,Spider Mites,0.27734375,오류
+Thrips,Image_34.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.134765625,오류
+Thrips,Image_35.jpg,a photo of egg Spider Mites,Spider Mites,0.1513671875,오류
+Thrips,Image_36.jpg,a photo of egg Corn Borers,Corn Borers,0.185546875,오류
+Thrips,Image_37.jpeg,a photo of egg Aphids,Aphids,0.1357421875,오류
+Thrips,Image_38.jpg,a photo of egg Corn Borers,Corn Borers,0.134765625,오류
+Thrips,Image_39.jpg,a photo of adult Thrips,Thrips,0.408203125,정확
+Thrips,Image_40.png,a photo of adult Thrips,Thrips,0.2255859375,정확
+Thrips,Image_41.png,a photo of adult Thrips,Thrips,0.73828125,정확
+Thrips,Image_42.jpg,a photo of larva Corn Borers,Corn Borers,0.169921875,오류
+Thrips,Image_43.jpg,a photo of egg Corn Borers,Corn Borers,0.185546875,오류
+Thrips,Image_46.jpg,a photo of adult Thrips,Thrips,0.400390625,정확
+Thrips,Image_47.jpg,a photo of adult Thrips,Thrips,0.271484375,정확
+Thrips,Image_48.jpeg,a photo of adult Thrips,Thrips,0.55078125,정확
+Thrips,Image_49.jpg,a photo of larva Corn Borers,Corn Borers,0.26171875,오류
+Thrips,Image_50.jpg,a photo of adult Thrips,Thrips,0.78515625,정확
+Thrips,Image_53.jpg,a photo of adult Thrips,Thrips,0.283203125,정확
+Thrips,Image_54.jpg,a photo of adult Thrips,Thrips,0.41015625,정확
+Thrips,Image_55.jpg,a photo of adult Aphids,Aphids,0.197265625,오류
+Thrips,Image_56.jpg,a photo of larva Corn Borers,Corn Borers,0.1884765625,오류
+Thrips,Image_57.jpg,a photo of larva Thrips,Thrips,0.400390625,정확
+Thrips,Image_58.jpg,a photo of adult Thrips,Thrips,0.76953125,정확
+Thrips,Image_61.jpg,a photo of larva Spider Mites,Spider Mites,0.25390625,오류
+Thrips,Image_62.jpg,a photo of adult Aphids,Aphids,0.2890625,오류
+Thrips,Image_63.jpg,a photo of adult Thrips,Thrips,0.57421875,정확
+Thrips,Image_64.jpg,a photo of adult Thrips,Thrips,0.2314453125,정확
+Thrips,Image_65.jpg,a photo of egg Aphids,Aphids,0.275390625,오류
+Thrips,Image_67.png,a photo of adult Thrips,Thrips,0.271484375,정확
+Thrips,Image_68.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.12451171875,오류
+Thrips,Image_69.jpg,a photo of egg Spider Mites,Spider Mites,0.400390625,오류
+Thrips,Image_70.jpg,a photo of adult Thrips,Thrips,0.185546875,정확
+Thrips,Image_71.JPG,a photo of adult Thrips,Thrips,0.73828125,정확
+Thrips,Image_72.jpg,a photo of pupa Thrips,Thrips,0.185546875,정확
+Thrips,Image_73.jpeg,a photo of egg Thrips,Thrips,0.08251953125,정확
+Thrips,Image_74.png,a photo of adult Thrips,Thrips,0.2734375,정확
+Thrips,Image_75.jpg,a photo of adult Aphids,Aphids,0.18359375,오류
+Thrips,Image_76.jpg,a photo of egg Corn Borers,Corn Borers,0.333984375,오류
+Thrips,Image_77.jpg,a photo of adult Spider Mites,Spider Mites,0.359375,오류
+Thrips,Image_78.jpg,a photo of larva Thrips,Thrips,0.376953125,정확
+Thrips,Image_79.jpg,a photo of egg Corn Borers,Corn Borers,0.1591796875,오류
+Thrips,Image_80.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1923828125,오류
+Thrips,Image_81.jpg,a photo of adult Spider Mites,Spider Mites,0.34375,오류
+Thrips,Image_82.jpg,a photo of adult Thrips,Thrips,0.375,정확
+Thrips,Image_83.jpg,a photo of adult Spider Mites,Spider Mites,0.478515625,오류
+Thrips,Image_86.jpg,a photo of egg Aphids,Aphids,0.26171875,오류
+Thrips,Image_87.jpg,a photo of pupa Thrips,Thrips,0.2236328125,정확
+Thrips,Image_88.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.1533203125,오류
+Thrips,Image_89.jpg,a photo of egg Corn Borers,Corn Borers,0.228515625,오류
+Thrips,Image_90.jpg,a photo of adult Thrips,Thrips,0.396484375,정확
+Thrips,Image_91.jpeg,a photo of adult Aphids,Aphids,0.212890625,오류
+Thrips,Image_92.jpg,a photo of adult Aphids,Aphids,0.326171875,오류
+Thrips,Image_93.jpg,a photo of egg Spider Mites,Spider Mites,0.294921875,오류
+Thrips,Image_95.jpg,a photo of adult Aphids,Aphids,0.203125,오류
+Thrips,Image_96.jpg,a photo of pupa Thrips,Thrips,0.1640625,정확
+Thrips,Image_97.jpg,a photo of adult Aphids,Aphids,0.1591796875,오류
+Thrips,Image_98.jpg,a photo of pupa Fruit Flies,Fruit Flies,0.10498046875,오류
+Thrips,Image_99.jpg,a photo of pupa Spider Mites,Spider Mites,0.318359375,오류
+Thrips,Image_100.jpg,a photo of adult Corn Borers,Corn Borers,0.15234375,오류
+Thrips,Image_101.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.1826171875,오류
+Thrips,Image_102.jpg,a photo of egg Spider Mites,Spider Mites,0.181640625,오류
+Thrips,Image_103.jpeg,a photo of adult Aphids,Aphids,0.2001953125,오류
+Thrips,Image_104.jpg,a photo of egg Thrips,Thrips,0.11279296875,정확
+Thrips,Image_105.jpg,a photo of adult Aphids,Aphids,0.2158203125,오류
+Thrips,Image_106.jpg,a photo of egg Thrips,Thrips,0.1806640625,정확
+Thrips,Image_107.jpg,a photo of adult Thrips,Thrips,0.189453125,정확
+Thrips,Image_108.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2421875,오류
+Thrips,Image_110.jpg,a photo of egg Corn Borers,Corn Borers,0.3359375,오류
+Thrips,Image_111.JPG,a photo of egg Corn Borers,Corn Borers,0.1806640625,오류
+Thrips,Image_112.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.28125,오류
+Thrips,Image_113.jpg,a photo of egg Aphids,Aphids,0.1474609375,오류
+Thrips,Image_114.jpg,a photo of adult Spider Mites,Spider Mites,0.251953125,오류
+Thrips,Image_115.jpeg,a photo of adult Thrips,Thrips,0.138671875,정확
+Thrips,Image_116.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.111328125,오류
+Thrips,Image_117.jpg,a photo of adult Thrips,Thrips,0.423828125,정확
+Thrips,Image_118.jpg,a photo of adult Thrips,Thrips,0.455078125,정확
+Thrips,Image_119.JPG,a photo of egg Spider Mites,Spider Mites,0.353515625,오류
+Thrips,Image_120.png,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.255859375,오류
+Corn Earworms,Image_1.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.458984375,오류
+Corn Earworms,Image_2.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.2265625,오류
+Corn Earworms,Image_3.jpg,a photo of larva Corn Borers,Corn Borers,0.17578125,오류
+Corn Earworms,Image_4.jpg,a photo of larva Corn Borers,Corn Borers,0.259765625,오류
+Corn Earworms,Image_5.jpg,a photo of egg Corn Borers,Corn Borers,0.23828125,오류
+Corn Earworms,Image_6.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.28515625,오류
+Corn Earworms,Image_7.jpg,a photo of larva Corn Borers,Corn Borers,0.1552734375,오류
+Corn Earworms,Image_8.jpg,a photo of larva Corn Earworms,Corn Earworms,0.259765625,정확
+Corn Earworms,Image_9.jpg,a photo of larva Corn Earworms,Corn Earworms,0.1533203125,정확
+Corn Earworms,Image_10.png,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.1767578125,오류
+Corn Earworms,Image_11.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.3828125,오류
+Corn Earworms,Image_12.jpg,a photo of larva Corn Borers,Corn Borers,0.1416015625,오류
+Corn Earworms,Image_13.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1689453125,오류
+Corn Earworms,Image_14.png,a photo of pupa Corn Earworms,Corn Earworms,0.1845703125,정확
+Corn Earworms,Image_15.jpg,a photo of larva Armyworms,Armyworms,0.216796875,오류
+Corn Earworms,Image_16.jpg,a photo of larva Corn Borers,Corn Borers,0.2421875,오류
+Corn Earworms,Image_17.jpg,a photo of egg Armyworms,Armyworms,0.13671875,오류
+Corn Earworms,Image_18.jpg,a photo of larva Corn Borers,Corn Borers,0.2021484375,오류
+Corn Earworms,Image_19.jpg,a photo of larva Spider Mites,Spider Mites,0.150390625,오류
+Corn Earworms,Image_20.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.203125,오류
+Corn Earworms,Image_21.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.171875,오류
+Corn Earworms,Image_22.png,a photo of adult Tomato Hornworms,Tomato Hornworms,0.25390625,오류
+Corn Earworms,Image_23.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.17578125,오류
+Corn Earworms,Image_24.jpg,a photo of larva Corn Earworms,Corn Earworms,0.31640625,정확
+Corn Earworms,Image_25.png,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.2236328125,오류
+Corn Earworms,Image_26.jpg,a photo of larva Corn Borers,Corn Borers,0.2294921875,오류
+Corn Earworms,Image_27.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1416015625,오류
+Corn Earworms,Image_28.JPG,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.341796875,오류
+Corn Earworms,Image_29.jpg,a photo of larva Corn Borers,Corn Borers,0.2890625,오류
+Corn Earworms,Image_30.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.1982421875,정확
+Corn Earworms,Image_31.jpg,a photo of egg Corn Borers,Corn Borers,0.1533203125,오류
+Corn Earworms,Image_32.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.47265625,오류
+Corn Earworms,Image_33.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1923828125,오류
+Corn Earworms,Image_34.jpg,a photo of egg Corn Borers,Corn Borers,0.1630859375,오류
+Corn Earworms,Image_35.png,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.28515625,오류
+Corn Earworms,Image_36.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.212890625,오류
+Corn Earworms,Image_37.jpg,a photo of egg Fall Armyworms,Fall Armyworms,0.291015625,오류
+Corn Earworms,Image_38.jpg,a photo of larva Corn Earworms,Corn Earworms,0.15234375,정확
+Corn Earworms,Image_39.jpg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.1572265625,오류
+Corn Earworms,Image_40.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.32421875,오류
+Corn Earworms,Image_41.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.310546875,오류
+Corn Earworms,Image_42.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.28515625,오류
+Corn Earworms,Image_43.png,a photo of egg Corn Borers,Corn Borers,0.2158203125,오류
+Corn Earworms,Image_44.jpg,a photo of egg Corn Borers,Corn Borers,0.2373046875,오류
+Corn Earworms,Image_45.jpg,a photo of larva Corn Borers,Corn Borers,0.11083984375,오류
+Corn Earworms,Image_46.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2236328125,오류
+Corn Earworms,Image_47.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.2255859375,오류
+Corn Earworms,Image_48.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2119140625,오류
+Corn Earworms,Image_49.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.10986328125,오류
+Corn Earworms,Image_50.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.55859375,오류
+Corn Earworms,Image_51.jpg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.1572265625,오류
+Corn Earworms,Image_52.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.32421875,오류
+Corn Earworms,Image_53.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.234375,오류
+Corn Earworms,Image_54.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2216796875,오류
+Corn Earworms,Image_55.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.31640625,오류
+Corn Earworms,Image_56.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.171875,오류
+Corn Earworms,Image_57.jpg,a photo of egg Corn Borers,Corn Borers,0.28515625,오류
+Corn Earworms,Image_58.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.1259765625,정확
+Corn Earworms,Image_59.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2080078125,오류
+Corn Earworms,Image_60.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.1953125,오류
+Corn Earworms,Image_61.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.423828125,오류
+Corn Earworms,Image_62.jpg,a photo of egg Corn Borers,Corn Borers,0.1689453125,오류
+Corn Earworms,Image_63.JPG,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2265625,오류
+Corn Earworms,Image_65.png,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.177734375,오류
+Corn Earworms,Image_66.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1328125,오류
+Corn Earworms,Image_67.jpg,a photo of pupa Armyworms,Armyworms,0.2197265625,오류
+Corn Earworms,Image_68.jpg,a photo of larva Corn Borers,Corn Borers,0.20703125,오류
+Corn Earworms,Image_69.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.314453125,오류
+Corn Earworms,Image_71.jpg,a photo of adult Fruit Flies,Fruit Flies,0.169921875,오류
+Corn Earworms,Image_72.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.1923828125,오류
+Corn Earworms,Image_73.jpg,a photo of adult Corn Borers,Corn Borers,0.1376953125,오류
+Corn Earworms,Image_74.jpg,a photo of pupa Corn Borers,Corn Borers,0.2041015625,오류
+Corn Earworms,Image_75.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.22265625,오류
+Corn Earworms,Image_76.JPG,a photo of pupa Corn Borers,Corn Borers,0.16796875,오류
+Corn Earworms,Image_77.jpg,a photo of egg Armyworms,Armyworms,0.18359375,오류
+Corn Earworms,Image_78.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.27734375,오류
+Corn Earworms,Image_79.jpeg,a photo of egg Corn Borers,Corn Borers,0.1416015625,오류
+Corn Earworms,Image_80.jpg,a photo of larva Corn Borers,Corn Borers,0.185546875,오류
+Corn Earworms,Image_81.jpg,a photo of egg Spider Mites,Spider Mites,0.3515625,오류
+Corn Earworms,Image_82.jpg,a photo of larva Corn Borers,Corn Borers,0.216796875,오류
+Corn Earworms,Image_83.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.322265625,오류
+Corn Earworms,Image_84.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.318359375,오류
+Corn Earworms,Image_85.jpg,a photo of larva Corn Earworms,Corn Earworms,0.5703125,정확
+Corn Earworms,Image_86.jpg,a photo of larva Corn Borers,Corn Borers,0.29296875,오류
+Corn Earworms,Image_88.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.294921875,오류
+Corn Earworms,Image_89.JPG,a photo of adult Corn Borers,Corn Borers,0.208984375,오류
+Corn Earworms,Image_90.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.126953125,오류
+Corn Earworms,Image_91.JPG,a photo of pupa Corn Earworms,Corn Earworms,0.19140625,정확
+Corn Earworms,Image_92.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.23828125,오류
+Corn Earworms,Image_93.jpg,a photo of egg Corn Borers,Corn Borers,0.1171875,오류
+Corn Earworms,Image_94.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2578125,오류
+Corn Earworms,Image_95.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1826171875,오류
+Corn Earworms,Image_97.jpg,a photo of egg Corn Earworms,Corn Earworms,0.259765625,정확
+Corn Earworms,Image_98.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.2158203125,정확
+Corn Earworms,Image_99.jpg,a photo of adult Corn Earworms,Corn Earworms,0.228515625,정확
+Corn Earworms,Image_100.jpeg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.333984375,오류
+Corn Earworms,Image_101.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2333984375,오류
+Corn Earworms,Image_102.jpg,a photo of larva Armyworms,Armyworms,0.341796875,오류
+Corn Earworms,Image_103.jpg,a photo of larva Corn Borers,Corn Borers,0.18359375,오류
+Corn Earworms,Image_104.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.10986328125,오류
+Corn Earworms,Image_105.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.228515625,오류
+Corn Earworms,Image_106.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2578125,오류
+Corn Earworms,Image_108.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1708984375,오류
+Corn Earworms,Image_109.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1552734375,오류
+Corn Earworms,Image_110.jpg,a photo of larva Corn Borers,Corn Borers,0.126953125,오류
+Corn Earworms,Image_112.jpg,a photo of larva Corn Earworms,Corn Earworms,0.2138671875,정확
+Corn Earworms,Image_113.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.240234375,오류
+Corn Earworms,Image_118.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.345703125,오류
+Corn Earworms,Image_119.png,a photo of pupa Corn Earworms,Corn Earworms,0.1240234375,정확
+Corn Earworms,Image_120.JPG,a photo of egg Tomato Hornworms,Tomato Hornworms,0.1376953125,오류
+Fall Armyworms,Image_1.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.10595703125,정확
+Fall Armyworms,Image_2.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1494140625,정확
+Fall Armyworms,Image_3.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.318359375,정확
+Fall Armyworms,Image_4.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.1650390625,오류
+Fall Armyworms,Image_5.jpg,a photo of larva Corn Borers,Corn Borers,0.12060546875,오류
+Fall Armyworms,Image_6.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2431640625,정확
+Fall Armyworms,Image_7.jpg,a photo of pupa Armyworms,Armyworms,0.169921875,오류
+Fall Armyworms,Image_8.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.4609375,정확
+Fall Armyworms,Image_9.jpg,a photo of adult Armyworms,Armyworms,0.3359375,오류
+Fall Armyworms,Image_10.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.283203125,정확
+Fall Armyworms,Image_11.jpeg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.333984375,오류
+Fall Armyworms,Image_12.jpg,a photo of adult Armyworms,Armyworms,0.2255859375,오류
+Fall Armyworms,Image_14.jpg,a photo of pupa Armyworms,Armyworms,0.25390625,오류
+Fall Armyworms,Image_15.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.22265625,오류
+Fall Armyworms,Image_16.jpg,a photo of adult Armyworms,Armyworms,0.25,오류
+Fall Armyworms,Image_17.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.1728515625,오류
+Fall Armyworms,Image_18.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.25390625,정확
+Fall Armyworms,Image_19.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2138671875,정확
+Fall Armyworms,Image_20.jpg,a photo of pupa Aphids,Aphids,0.1767578125,오류
+Fall Armyworms,Image_21.jpg,a photo of adult Armyworms,Armyworms,0.30078125,오류
+Fall Armyworms,Image_22.jpg,a photo of pupa Armyworms,Armyworms,0.189453125,오류
+Fall Armyworms,Image_23.jpg,a photo of adult Armyworms,Armyworms,0.12060546875,오류
+Fall Armyworms,Image_24.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.154296875,정확
+Fall Armyworms,Image_25.jpg,a photo of pupa Aphids,Aphids,0.1015625,오류
+Fall Armyworms,Image_26.jpg,a photo of adult Corn Earworms,Corn Earworms,0.166015625,오류
+Fall Armyworms,Image_27.jpg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.1123046875,오류
+Fall Armyworms,Image_28.jpg,a photo of egg Fall Armyworms,Fall Armyworms,0.1298828125,정확
+Fall Armyworms,Image_29.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.296875,정확
+Fall Armyworms,Image_30.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.26953125,정확
+Fall Armyworms,Image_31.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.16796875,오류
+Fall Armyworms,Image_32.jpg,a photo of adult Armyworms,Armyworms,0.27734375,오류
+Fall Armyworms,Image_33.jpeg,a photo of egg Fall Armyworms,Fall Armyworms,0.140625,정확
+Fall Armyworms,Image_34.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.12255859375,오류
+Fall Armyworms,Image_35.jpg,a photo of larva Armyworms,Armyworms,0.17578125,오류
+Fall Armyworms,Image_36.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.22265625,오류
+Fall Armyworms,Image_37.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1708984375,정확
+Fall Armyworms,Image_38.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.126953125,정확
+Fall Armyworms,Image_39.jpg,a photo of adult Spider Mites,Spider Mites,0.201171875,오류
+Fall Armyworms,Image_40.gif,a photo of larva Fall Armyworms,Fall Armyworms,0.333984375,정확
+Fall Armyworms,Image_41.jpg,a photo of larva Armyworms,Armyworms,0.1875,오류
+Fall Armyworms,Image_42.jpg,a photo of Citrus Canker,Citrus Canker,0.11474609375,오류
+Fall Armyworms,Image_43.jpg,a photo of adult Armyworms,Armyworms,0.158203125,오류
+Fall Armyworms,Image_44.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.115234375,정확
+Fall Armyworms,Image_45.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2001953125,오류
+Fall Armyworms,Image_46.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1767578125,오류
+Fall Armyworms,Image_47.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.26953125,오류
+Fall Armyworms,Image_50.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.1259765625,오류
+Fall Armyworms,Image_51.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1064453125,정확
+Fall Armyworms,Image_52.jpg,a photo of adult Armyworms,Armyworms,0.26953125,오류
+Fall Armyworms,Image_53.jpg,a photo of larva Corn Borers,Corn Borers,0.111328125,오류
+Fall Armyworms,Image_54.jpg,a photo of Citrus Canker,Citrus Canker,0.28515625,오류
+Fall Armyworms,Image_55.jpg,a photo of adult Armyworms,Armyworms,0.2119140625,오류
+Fall Armyworms,Image_56.jpg,a photo of adult Fruit Flies,Fruit Flies,0.24609375,오류
+Fall Armyworms,Image_57.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.357421875,오류
+Fall Armyworms,Image_59.png,a photo of adult Fall Armyworms,Fall Armyworms,0.205078125,정확
+Fall Armyworms,Image_60.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.373046875,정확
+Fall Armyworms,Image_61.jpeg,a photo of adult Fall Armyworms,Fall Armyworms,0.1689453125,정확
+Fall Armyworms,Image_63.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.271484375,정확
+Fall Armyworms,Image_64.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.26171875,오류
+Fall Armyworms,Image_65.jpg,a photo of egg Armyworms,Armyworms,0.3203125,오류
+Fall Armyworms,Image_66.jpg,a photo of egg Armyworms,Armyworms,0.140625,오류
+Fall Armyworms,Image_67.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1767578125,정확
+Fall Armyworms,Image_68.gif,a photo of adult Armyworms,Armyworms,0.2275390625,오류
+Fall Armyworms,Image_69.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1943359375,정확
+Fall Armyworms,Image_70.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.240234375,오류
+Fall Armyworms,Image_71.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.36328125,정확
+Fall Armyworms,Image_72.jpg,a photo of adult Armyworms,Armyworms,0.412109375,오류
+Fall Armyworms,Image_73.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1767578125,정확
+Fall Armyworms,Image_74.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1494140625,정확
+Fall Armyworms,Image_76.jpg,a photo of adult Armyworms,Armyworms,0.251953125,오류
+Fall Armyworms,Image_77.jpg,a photo of larva Armyworms,Armyworms,0.1416015625,오류
+Fall Armyworms,Image_78.jpg,a photo of adult Armyworms,Armyworms,0.263671875,오류
+Fall Armyworms,Image_79.jpg,a photo of adult Aphids,Aphids,0.080078125,오류
+Fall Armyworms,Image_80.jpg,a photo of larva Corn Borers,Corn Borers,0.16015625,오류
+Fall Armyworms,Image_81.gif,a photo of adult Armyworms,Armyworms,0.23828125,오류
+Fall Armyworms,Image_82.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.181640625,오류
+Fall Armyworms,Image_83.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.205078125,정확
+Fall Armyworms,Image_84.jpg,a photo of larva Thrips,Thrips,0.1494140625,오류
+Fall Armyworms,Image_85.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.298828125,정확
+Fall Armyworms,Image_86.JPG,a photo of adult Armyworms,Armyworms,0.255859375,오류
+Fall Armyworms,Image_87.jpg,a photo of pupa Armyworms,Armyworms,0.263671875,오류
+Fall Armyworms,Image_88.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.197265625,오류
+Fall Armyworms,Image_89.jpg,a photo of adult Spider Mites,Spider Mites,0.228515625,오류
+Fall Armyworms,Image_90.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.158203125,정확
+Fall Armyworms,Image_91.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.3046875,정확
+Fall Armyworms,Image_92.jpg,a photo of adult Armyworms,Armyworms,0.2216796875,오류
+Fall Armyworms,Image_93.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.357421875,정확
+Fall Armyworms,Image_94.jpg,a photo of adult Spider Mites,Spider Mites,0.515625,오류
+Fall Armyworms,Image_95.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.166015625,정확
+Fall Armyworms,Image_96.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.12353515625,정확
+Fall Armyworms,Image_97.jpg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.234375,오류
+Fall Armyworms,Image_98.jpg,a photo of egg Armyworms,Armyworms,0.24609375,오류
+Fall Armyworms,Image_99.jpeg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.28515625,오류
+Fall Armyworms,Image_100.jpg,a photo of Citrus Canker,Citrus Canker,0.279296875,오류
+Fall Armyworms,Image_101.jpg,a photo of pupa Corn Borers,Corn Borers,0.2021484375,오류
+Fall Armyworms,Image_102.jpg,a photo of adult Armyworms,Armyworms,0.36328125,오류
+Fall Armyworms,Image_103.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.447265625,정확
+Fall Armyworms,Image_104.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.259765625,오류
+Fall Armyworms,Image_105.PNG,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.275390625,오류
+Fall Armyworms,Image_106.jpg,a photo of larva Corn Borers,Corn Borers,0.10400390625,오류
+Fall Armyworms,Image_107.jpg,a photo of pupa Corn Borers,Corn Borers,0.16015625,오류
+Fall Armyworms,Image_109.jpg,a photo of egg Aphids,Aphids,0.1396484375,오류
+Fall Armyworms,Image_110.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.173828125,정확
+Fall Armyworms,Image_111.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.193359375,정확
+Fall Armyworms,Image_112.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1142578125,정확
+Fall Armyworms,Image_113.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.189453125,정확
+Fall Armyworms,Image_114.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1298828125,정확
+Fall Armyworms,Image_115.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.201171875,정확
+Fall Armyworms,Image_116.jpg,a photo of adult Armyworms,Armyworms,0.39453125,오류
+Fall Armyworms,Image_117.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.318359375,정확
+Fall Armyworms,Image_118.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.23046875,오류
+Fall Armyworms,Image_119.jpg,a photo of larva Corn Borers,Corn Borers,0.40625,오류
+Fall Armyworms,Image_120.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.22265625,오류
+Corn Borers,Image_1.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.439453125,오류
+Corn Borers,Image_2.jpg,a photo of egg Corn Borers,Corn Borers,0.16015625,정확
+Corn Borers,Image_3.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1572265625,오류
+Corn Borers,Image_4.gif,a photo of pupa Fall Armyworms,Fall Armyworms,0.244140625,오류
+Corn Borers,Image_5.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1318359375,오류
+Corn Borers,Image_6.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.193359375,오류
+Corn Borers,Image_7.jpg,a photo of larva Aphids,Aphids,0.1005859375,오류
+Corn Borers,Image_8.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.259765625,오류
+Corn Borers,Image_9.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.341796875,오류
+Corn Borers,Image_10.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.365234375,오류
+Corn Borers,Image_11.png,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.1767578125,오류
+Corn Borers,Image_12.jpg,a photo of larva Corn Borers,Corn Borers,0.154296875,정확
+Corn Borers,Image_13.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.18359375,오류
+Corn Borers,Image_14.jpg,a photo of pupa Corn Borers,Corn Borers,0.1630859375,정확
+Corn Borers,Image_15.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.265625,오류
+Corn Borers,Image_16.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.23828125,오류
+Corn Borers,Image_17.jpg,a photo of larva Corn Borers,Corn Borers,0.1552734375,정확
+Corn Borers,Image_18.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.390625,오류
+Corn Borers,Image_19.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.2001953125,오류
+Corn Borers,Image_20.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1494140625,오류
+Corn Borers,Image_21.jpg,a photo of egg Corn Borers,Corn Borers,0.244140625,정확
+Corn Borers,Image_22.jpg,a photo of egg Corn Borers,Corn Borers,0.2119140625,정확
+Corn Borers,Image_23.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.1494140625,오류
+Corn Borers,Image_24.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.18359375,오류
+Corn Borers,Image_25.jpg,a photo of larva Corn Earworms,Corn Earworms,0.138671875,오류
+Corn Borers,Image_26.jpg,a photo of pupa Corn Borers,Corn Borers,0.373046875,정확
+Corn Borers,Image_27.jpg,a photo of adult Fruit Flies,Fruit Flies,0.1640625,오류
+Corn Borers,Image_28.JPG,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.2177734375,오류
+Corn Borers,Image_29.jpg,a photo of larva Corn Borers,Corn Borers,0.21484375,정확
+Corn Borers,Image_30.jpg,a photo of egg Corn Borers,Corn Borers,0.2314453125,정확
+Corn Borers,Image_31.jpg,a photo of larva Thrips,Thrips,0.12890625,오류
+Corn Borers,Image_32.png,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.412109375,오류
+Corn Borers,Image_33.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1796875,오류
+Corn Borers,Image_34.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2451171875,오류
+Corn Borers,Image_35.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1796875,오류
+Corn Borers,Image_36.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.216796875,오류
+Corn Borers,Image_37.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.154296875,오류
+Corn Borers,Image_38.png,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.263671875,오류
+Corn Borers,Image_39.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2099609375,오류
+Corn Borers,Image_40.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.37109375,오류
+Corn Borers,Image_41.jpg,a photo of larva Corn Borers,Corn Borers,0.2353515625,정확
+Corn Borers,Image_42.jpg,a photo of pupa Armyworms,Armyworms,0.1708984375,오류
+Corn Borers,Image_43.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.28515625,오류
+Corn Borers,Image_44.JPG,a photo of adult Corn Borers,Corn Borers,0.275390625,정확
+Corn Borers,Image_45.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2041015625,오류
+Corn Borers,Image_46.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.23828125,오류
+Corn Borers,Image_47.jpg,a photo of larva Corn Borers,Corn Borers,0.1611328125,정확
+Corn Borers,Image_48.png,a photo of larva Corn Borers,Corn Borers,0.51953125,정확
+Corn Borers,Image_49.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.2734375,오류
+Corn Borers,Image_50.jpg,a photo of pupa Armyworms,Armyworms,0.255859375,오류
+Corn Borers,Image_51.jpg,a photo of larva Corn Borers,Corn Borers,0.1826171875,정확
+Corn Borers,Image_52.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.25390625,오류
+Corn Borers,Image_53.jpg,a photo of egg Corn Borers,Corn Borers,0.21484375,정확
+Corn Borers,Image_54.jpeg,a photo of larva Armyworms,Armyworms,0.1318359375,오류
+Corn Borers,Image_55.jpg,a photo of larva Corn Borers,Corn Borers,0.404296875,정확
+Corn Borers,Image_56.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.2119140625,오류
+Corn Borers,Image_57.jpg,a photo of larva Corn Borers,Corn Borers,0.1640625,정확
+Corn Borers,Image_58.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.294921875,오류
+Corn Borers,Image_59.png,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.37890625,오류
+Corn Borers,Image_60.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1689453125,오류
+Corn Borers,Image_61.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.236328125,오류
+Corn Borers,Image_62.png,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.29296875,오류
+Corn Borers,Image_63.JPG,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2021484375,오류
+Corn Borers,Image_64.jpg,a photo of egg Corn Borers,Corn Borers,0.0947265625,정확
+Corn Borers,Image_65.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1640625,오류
+Corn Borers,Image_66.png,a photo of egg Fall Armyworms,Fall Armyworms,0.240234375,오류
+Corn Borers,Image_67.jpg,a photo of larva Corn Borers,Corn Borers,0.23046875,정확
+Corn Borers,Image_68.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1455078125,오류
+Corn Borers,Image_69.jpg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.193359375,오류
+Corn Borers,Image_70.jpg,a photo of larva Corn Earworms,Corn Earworms,0.34765625,오류
+Corn Borers,Image_71.jpg,a photo of egg Corn Borers,Corn Borers,0.1787109375,정확
+Corn Borers,Image_72.jpg,a photo of larva Corn Borers,Corn Borers,0.16015625,정확
+Corn Borers,Image_74.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.220703125,오류
+Corn Borers,Image_75.JPG,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.42578125,오류
+Corn Borers,Image_76.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.462890625,오류
+Corn Borers,Image_77.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2119140625,오류
+Corn Borers,Image_78.png,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.28125,오류
+Corn Borers,Image_79.jpg,a photo of larva Corn Borers,Corn Borers,0.1552734375,정확
+Corn Borers,Image_80.JPG,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.2490234375,오류
+Corn Borers,Image_81.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1943359375,오류
+Corn Borers,Image_82.jpg,a photo of larva Corn Earworms,Corn Earworms,0.3125,오류
+Corn Borers,Image_83.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.25390625,오류
+Corn Borers,Image_84.jpg,a photo of larva Corn Borers,Corn Borers,0.12060546875,정확
+Corn Borers,Image_85.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.26171875,오류
+Corn Borers,Image_86.png,a photo of larva Corn Borers,Corn Borers,0.146484375,정확
+Corn Borers,Image_87.png,a photo of larva Corn Borers,Corn Borers,0.28125,정확
+Corn Borers,Image_88.jpg,a photo of egg Corn Borers,Corn Borers,0.07763671875,정확
+Corn Borers,Image_89.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.314453125,오류
+Corn Borers,Image_90.jpg,a photo of egg Thrips,Thrips,0.197265625,오류
+Corn Borers,Image_91.png,a photo of pupa Corn Borers,Corn Borers,0.1796875,정확
+Corn Borers,Image_92.png,a photo of egg Corn Borers,Corn Borers,0.57421875,정확
+Corn Borers,Image_93.jpg,a photo of pupa Armyworms,Armyworms,0.2216796875,오류
+Corn Borers,Image_94.jpg,a photo of larva Corn Borers,Corn Borers,0.150390625,정확
+Corn Borers,Image_95.jpg,a photo of larva Corn Earworms,Corn Earworms,0.3125,오류
+Corn Borers,Image_96.png,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.69140625,오류
+Corn Borers,Image_97.jpg,a photo of larva Corn Borers,Corn Borers,0.431640625,정확
+Corn Borers,Image_98.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.2373046875,오류
+Corn Borers,Image_100.jpeg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.16015625,오류
+Corn Borers,Image_101.jpg,a photo of larva Corn Borers,Corn Borers,0.375,정확
+Corn Borers,Image_102.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.27734375,오류
+Corn Borers,Image_103.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.126953125,오류
+Corn Borers,Image_104.jpg,a photo of pupa Thrips,Thrips,0.259765625,오류
+Corn Borers,Image_105.jpg,a photo of egg Corn Borers,Corn Borers,0.2392578125,정확
+Corn Borers,Image_107.png,a photo of egg Corn Borers,Corn Borers,0.6484375,정확
+Corn Borers,Image_108.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.15625,오류
+Corn Borers,Image_109.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1640625,오류
+Corn Borers,Image_110.png,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.478515625,오류
+Corn Borers,Image_111.jpg,a photo of larva Armyworms,Armyworms,0.1279296875,오류
+Corn Borers,Image_113.jpg,a photo of egg Corn Borers,Corn Borers,0.328125,정확
+Corn Borers,Image_114.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1474609375,오류
+Corn Borers,Image_115.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.30078125,오류
+Corn Borers,Image_116.png,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.279296875,오류
+Corn Borers,Image_117.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.2578125,오류
+Corn Borers,Image_118.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.380859375,오류
+Corn Borers,Image_120.jpg,a photo of larva Corn Borers,Corn Borers,0.208984375,정확
+Cabbage Loopers,Image_1.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.1904296875,오류
+Cabbage Loopers,Image_2.jpeg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.205078125,오류
+Cabbage Loopers,Image_3.jpeg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.103515625,오류
+Cabbage Loopers,Image_4.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.23046875,오류
+Cabbage Loopers,Image_5.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.09375,오류
+Cabbage Loopers,Image_6.jpg,a photo of adult Aphids,Aphids,0.1240234375,오류
+Cabbage Loopers,Image_7.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.16015625,오류
+Cabbage Loopers,Image_8.jpg,a photo of larva Spider Mites,Spider Mites,0.1494140625,오류
+Cabbage Loopers,Image_9.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.2451171875,오류
+Cabbage Loopers,Image_10.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.169921875,오류
+Cabbage Loopers,Image_11.jpg,a photo of larva Armyworms,Armyworms,0.162109375,오류
+Cabbage Loopers,Image_12.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1875,오류
+Cabbage Loopers,Image_13.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.296875,오류
+Cabbage Loopers,Image_14.png,a photo of larva Tomato Hornworms,Tomato Hornworms,0.330078125,오류
+Cabbage Loopers,Image_15.png,a photo of adult Tomato Hornworms,Tomato Hornworms,0.1572265625,오류
+Cabbage Loopers,Image_16.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.283203125,오류
+Cabbage Loopers,Image_17.jpg,a photo of egg Aphids,Aphids,0.1279296875,오류
+Cabbage Loopers,Image_18.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.287109375,오류
+Cabbage Loopers,Image_19.jpg,a photo of larva Aphids,Aphids,0.0830078125,오류
+Cabbage Loopers,Image_20.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.216796875,정확
+Cabbage Loopers,Image_21.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.10498046875,오류
+Cabbage Loopers,Image_22.png,a photo of adult Fall Armyworms,Fall Armyworms,0.251953125,오류
+Cabbage Loopers,Image_23.jpg,a photo of pupa Aphids,Aphids,0.15234375,오류
+Cabbage Loopers,Image_24.jpg,a photo of larva Armyworms,Armyworms,0.1826171875,오류
+Cabbage Loopers,Image_25.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.09765625,오류
+Cabbage Loopers,Image_26.jpg,a photo of egg Fall Armyworms,Fall Armyworms,0.205078125,오류
+Cabbage Loopers,Image_27.jpg,a photo of larva Spider Mites,Spider Mites,0.189453125,오류
+Cabbage Loopers,Image_28.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.23828125,오류
+Cabbage Loopers,Image_29.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.185546875,오류
+Cabbage Loopers,Image_30.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.09912109375,오류
+Cabbage Loopers,Image_31.png,a photo of pupa Cabbage Loopers,Cabbage Loopers,0.349609375,정확
+Cabbage Loopers,Image_32.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.2412109375,오류
+Cabbage Loopers,Image_33.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.228515625,오류
+Cabbage Loopers,Image_34.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.1640625,오류
+Cabbage Loopers,Image_35.png,a photo of larva Cabbage Loopers,Cabbage Loopers,0.921875,정확
+Cabbage Loopers,Image_36.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.16796875,오류
+Cabbage Loopers,Image_38.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1748046875,오류
+Cabbage Loopers,Image_39.png,a photo of adult Armyworms,Armyworms,0.37890625,오류
+Cabbage Loopers,Image_42.jpg,a photo of adult Aphids,Aphids,0.126953125,오류
+Cabbage Loopers,Image_43.jpg,a photo of larva Armyworms,Armyworms,0.119140625,오류
+Cabbage Loopers,Image_44.png,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1845703125,오류
+Cabbage Loopers,Image_45.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.294921875,오류
+Cabbage Loopers,Image_46.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.275390625,오류
+Cabbage Loopers,Image_47.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.43359375,오류
+Cabbage Loopers,Image_48.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.07080078125,오류
+Cabbage Loopers,Image_49.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.130859375,오류
+Cabbage Loopers,Image_50.jpg,a photo of pupa Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.1630859375,오류
+Cabbage Loopers,Image_51.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.10107421875,오류
+Cabbage Loopers,Image_52.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.0947265625,오류
+Cabbage Loopers,Image_53.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1923828125,오류
+Cabbage Loopers,Image_54.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.2001953125,오류
+Cabbage Loopers,Image_55.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.2158203125,오류
+Cabbage Loopers,Image_57.jpg,a photo of egg Spider Mites,Spider Mites,0.2109375,오류
+Cabbage Loopers,Image_58.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.2041015625,오류
+Cabbage Loopers,Image_59.jpg,a photo of larva Armyworms,Armyworms,0.220703125,오류
+Cabbage Loopers,Image_60.jpg,a photo of pupa Armyworms,Armyworms,0.310546875,오류
+Cabbage Loopers,Image_61.jpg,a photo of adult Aphids,Aphids,0.099609375,오류
+Cabbage Loopers,Image_62.jpeg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.1044921875,정확
+Cabbage Loopers,Image_63.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1142578125,오류
+Cabbage Loopers,Image_64.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.423828125,오류
+Cabbage Loopers,Image_65.jpeg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.115234375,오류
+Cabbage Loopers,Image_66.jpg,a photo of pupa Armyworms,Armyworms,0.2041015625,오류
+Cabbage Loopers,Image_67.jpg,a photo of egg Aphids,Aphids,0.11328125,오류
+Cabbage Loopers,Image_69.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.84375,정확
+Cabbage Loopers,Image_70.jpg,a photo of pupa Armyworms,Armyworms,0.2138671875,오류
+Cabbage Loopers,Image_71.png,a photo of pupa Fall Armyworms,Fall Armyworms,0.263671875,오류
+Cabbage Loopers,Image_72.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.5078125,오류
+Cabbage Loopers,Image_74.jpg,a photo of larva Aphids,Aphids,0.10302734375,오류
+Cabbage Loopers,Image_75.jpg,a photo of larva Armyworms,Armyworms,0.244140625,오류
+Cabbage Loopers,Image_76.jpg,a photo of larva Corn Borers,Corn Borers,0.1552734375,오류
+Cabbage Loopers,Image_77.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.337890625,오류
+Cabbage Loopers,Image_78.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.19921875,오류
+Cabbage Loopers,Image_79.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.421875,정확
+Cabbage Loopers,Image_80.JPG,a photo of adult Tomato Hornworms,Tomato Hornworms,0.1220703125,오류
+Cabbage Loopers,Image_81.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.1689453125,오류
+Cabbage Loopers,Image_83.jpg,a photo of pupa Aphids,Aphids,0.248046875,오류
+Cabbage Loopers,Image_84.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1494140625,오류
+Cabbage Loopers,Image_87.jpg,a photo of larva Thrips,Thrips,0.11669921875,오류
+Cabbage Loopers,Image_89.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.79296875,정확
+Cabbage Loopers,Image_90.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.2373046875,오류
+Cabbage Loopers,Image_92.jpg,a photo of pupa Aphids,Aphids,0.197265625,오류
+Cabbage Loopers,Image_93.jpg,a photo of larva Aphids,Aphids,0.333984375,오류
+Cabbage Loopers,Image_98.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.1787109375,오류
+Cabbage Loopers,Image_100.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.337890625,오류
+Cabbage Loopers,Image_101.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.259765625,오류
+Cabbage Loopers,Image_102.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1279296875,오류
+Cabbage Loopers,Image_103.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.1259765625,오류
+Cabbage Loopers,Image_104.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.203125,오류
+Cabbage Loopers,Image_105.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.0673828125,오류
+Cabbage Loopers,Image_106.jpg,a photo of adult Armyworms,Armyworms,0.1396484375,오류
+Cabbage Loopers,Image_107.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.1826171875,오류
+Cabbage Loopers,Image_108.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.1357421875,오류
+Cabbage Loopers,Image_109.png,a photo of larva Tomato Hornworms,Tomato Hornworms,0.29296875,오류
+Cabbage Loopers,Image_110.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.146484375,오류
+Cabbage Loopers,Image_111.jpg,a photo of larva Armyworms,Armyworms,0.1220703125,오류
+Cabbage Loopers,Image_112.jpg,a photo of larva Armyworms,Armyworms,0.267578125,오류
+Cabbage Loopers,Image_113.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.2734375,오류
+Cabbage Loopers,Image_114.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.236328125,오류
+Cabbage Loopers,Image_115.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.2255859375,오류
+Cabbage Loopers,Image_116.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.1455078125,오류
+Cabbage Loopers,Image_117.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.18359375,오류
+Cabbage Loopers,Image_118.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.0810546875,오류
+Cabbage Loopers,Image_119.jpg,a photo of egg Aphids,Aphids,0.1396484375,오류
+Cabbage Loopers,Image_120.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.126953125,오류
+Brown Marmorated Stink Bugs,Image_1.JPG,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.59765625,정확
+Brown Marmorated Stink Bugs,Image_2.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.48046875,정확
+Brown Marmorated Stink Bugs,Image_3.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.57421875,정확
+Brown Marmorated Stink Bugs,Image_4.jpg,a photo of larva Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.294921875,정확
+Brown Marmorated Stink Bugs,Image_5.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6171875,정확
+Brown Marmorated Stink Bugs,Image_6.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.5390625,정확
+Brown Marmorated Stink Bugs,Image_7.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.609375,정확
+Brown Marmorated Stink Bugs,Image_8.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.64453125,정확
+Brown Marmorated Stink Bugs,Image_9.jpg,a photo of pupa Aphids,Aphids,0.08447265625,오류
+Brown Marmorated Stink Bugs,Image_10.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.5390625,정확
+Brown Marmorated Stink Bugs,Image_11.jpeg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6171875,정확
+Brown Marmorated Stink Bugs,Image_12.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.640625,정확
+Brown Marmorated Stink Bugs,Image_13.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.53125,정확
+Brown Marmorated Stink Bugs,Image_14.png,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.61328125,정확
+Brown Marmorated Stink Bugs,Image_15.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.5078125,정확
+Brown Marmorated Stink Bugs,Image_16.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.625,정확
+Brown Marmorated Stink Bugs,Image_17.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6640625,정확
+Brown Marmorated Stink Bugs,Image_18.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.47265625,정확
+Brown Marmorated Stink Bugs,Image_19.png,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.55859375,정확
+Brown Marmorated Stink Bugs,Image_20.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.443359375,정확
+Brown Marmorated Stink Bugs,Image_21.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.578125,정확
+Brown Marmorated Stink Bugs,Image_22.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.55859375,정확
+Brown Marmorated Stink Bugs,Image_23.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.62890625,정확
+Brown Marmorated Stink Bugs,Image_24.jpg,a photo of egg Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.3359375,정확
+Brown Marmorated Stink Bugs,Image_25.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.4453125,정확
+Brown Marmorated Stink Bugs,Image_26.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.3984375,정확
+Brown Marmorated Stink Bugs,Image_27.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.2421875,정확
+Brown Marmorated Stink Bugs,Image_28.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6953125,정확
+Brown Marmorated Stink Bugs,Image_29.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.36328125,정확
+Brown Marmorated Stink Bugs,Image_30.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6015625,정확
+Brown Marmorated Stink Bugs,Image_31.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.5390625,정확
+Brown Marmorated Stink Bugs,Image_32.jpg,a photo of egg Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.390625,정확
+Brown Marmorated Stink Bugs,Image_33.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.45703125,정확
+Brown Marmorated Stink Bugs,Image_34.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.4765625,정확
+Brown Marmorated Stink Bugs,Image_35.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6640625,정확
+Brown Marmorated Stink Bugs,Image_36.jpeg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.546875,정확
+Brown Marmorated Stink Bugs,Image_37.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.431640625,정확
+Brown Marmorated Stink Bugs,Image_38.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6171875,정확
+Brown Marmorated Stink Bugs,Image_39.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.54296875,정확
+Brown Marmorated Stink Bugs,Image_40.jpg,a photo of pupa Western Corn Rootworms,Western Corn Rootworms,0.189453125,오류
+Brown Marmorated Stink Bugs,Image_41.jpg,a photo of pupa Colorado Potato Beetles,Colorado Potato Beetles,0.3984375,오류
+Brown Marmorated Stink Bugs,Image_42.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.51171875,정확
+Brown Marmorated Stink Bugs,Image_43.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.68359375,정확
+Brown Marmorated Stink Bugs,Image_44.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.38671875,정확
+Brown Marmorated Stink Bugs,Image_45.png,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.4765625,정확
+Brown Marmorated Stink Bugs,Image_46.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.53515625,정확
+Brown Marmorated Stink Bugs,Image_47.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.55859375,정확
+Brown Marmorated Stink Bugs,Image_48.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.208984375,오류
+Brown Marmorated Stink Bugs,Image_49.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.357421875,정확
+Brown Marmorated Stink Bugs,Image_50.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.62890625,정확
+Brown Marmorated Stink Bugs,Image_51.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.51171875,정확
+Brown Marmorated Stink Bugs,Image_52.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.400390625,정확
+Brown Marmorated Stink Bugs,Image_53.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.455078125,정확
+Brown Marmorated Stink Bugs,Image_54.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.380859375,정확
+Brown Marmorated Stink Bugs,Image_55.jpg,a photo of egg Colorado Potato Beetles,Colorado Potato Beetles,0.494140625,오류
+Brown Marmorated Stink Bugs,Image_56.jpg,a photo of Citrus Canker,Citrus Canker,0.435546875,오류
+Brown Marmorated Stink Bugs,Image_59.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.5390625,정확
+Brown Marmorated Stink Bugs,Image_61.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6484375,정확
+Brown Marmorated Stink Bugs,Image_62.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.5,정확
+Brown Marmorated Stink Bugs,Image_63.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.578125,정확
+Brown Marmorated Stink Bugs,Image_64.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.380859375,정확
+Brown Marmorated Stink Bugs,Image_65.jpg,a photo of pupa Colorado Potato Beetles,Colorado Potato Beetles,0.47265625,오류
+Brown Marmorated Stink Bugs,Image_66.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.56640625,정확
+Brown Marmorated Stink Bugs,Image_67.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.59375,정확
+Brown Marmorated Stink Bugs,Image_68.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.53125,정확
+Brown Marmorated Stink Bugs,Image_69.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.546875,정확
+Brown Marmorated Stink Bugs,Image_71.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.57421875,정확
+Brown Marmorated Stink Bugs,Image_72.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.46875,정확
+Brown Marmorated Stink Bugs,Image_73.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.41796875,정확
+Brown Marmorated Stink Bugs,Image_74.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.318359375,정확
+Brown Marmorated Stink Bugs,Image_75.jpeg,a photo of pupa Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.3359375,정확
+Brown Marmorated Stink Bugs,Image_76.jpg,a photo of egg Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.46875,정확
+Brown Marmorated Stink Bugs,Image_77.jpg,a photo of adult Corn Borers,Corn Borers,0.203125,오류
+Brown Marmorated Stink Bugs,Image_78.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.484375,정확
+Brown Marmorated Stink Bugs,Image_80.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.1748046875,정확
+Brown Marmorated Stink Bugs,Image_81.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6328125,정확
+Brown Marmorated Stink Bugs,Image_82.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.431640625,정확
+Brown Marmorated Stink Bugs,Image_83.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.376953125,정확
+Brown Marmorated Stink Bugs,Image_84.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.478515625,정확
+Brown Marmorated Stink Bugs,Image_85.jpg,a photo of larva Africanized Honey Bees (Killer Bees),Africanized Honey Bees (Killer Bees),0.1904296875,오류
+Brown Marmorated Stink Bugs,Image_87.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.365234375,정확
+Brown Marmorated Stink Bugs,Image_88.jpg,a photo of egg Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.248046875,정확
+Brown Marmorated Stink Bugs,Image_89.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.37109375,정확
+Brown Marmorated Stink Bugs,Image_90.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.58203125,정확
+Brown Marmorated Stink Bugs,Image_91.jpg,a photo of pupa Aphids,Aphids,0.185546875,오류
+Brown Marmorated Stink Bugs,Image_92.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.546875,정확
+Brown Marmorated Stink Bugs,Image_93.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.68359375,정확
+Brown Marmorated Stink Bugs,Image_94.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.388671875,정확
+Brown Marmorated Stink Bugs,Image_95.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.578125,정확
+Brown Marmorated Stink Bugs,Image_96.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.32421875,정확
+Brown Marmorated Stink Bugs,Image_97.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.328125,정확
+Brown Marmorated Stink Bugs,Image_98.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.177734375,정확
+Brown Marmorated Stink Bugs,Image_99.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.55078125,정확
+Brown Marmorated Stink Bugs,Image_100.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.486328125,정확
+Brown Marmorated Stink Bugs,Image_101.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.625,정확
+Brown Marmorated Stink Bugs,Image_102.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.71875,정확
+Brown Marmorated Stink Bugs,Image_103.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.53125,정확
+Brown Marmorated Stink Bugs,Image_104.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.578125,정확
+Brown Marmorated Stink Bugs,Image_105.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.625,정확
+Brown Marmorated Stink Bugs,Image_106.png,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.396484375,정확
+Brown Marmorated Stink Bugs,Image_107.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.63671875,정확
+Brown Marmorated Stink Bugs,Image_108.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.60546875,정확
+Brown Marmorated Stink Bugs,Image_109.JPG,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6015625,정확
+Brown Marmorated Stink Bugs,Image_110.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.54296875,정확
+Brown Marmorated Stink Bugs,Image_111.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.61328125,정확
+Brown Marmorated Stink Bugs,Image_112.jpeg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.412109375,정확
+Brown Marmorated Stink Bugs,Image_113.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.51171875,정확
+Brown Marmorated Stink Bugs,Image_114.jpg,a photo of larva Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.359375,정확
+Brown Marmorated Stink Bugs,Image_115.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.5,정확
+Brown Marmorated Stink Bugs,Image_116.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6640625,정확
+Brown Marmorated Stink Bugs,Image_117.jpg,a photo of pupa Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.154296875,정확
+Brown Marmorated Stink Bugs,Image_118.jpeg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.416015625,정확
+Brown Marmorated Stink Bugs,Image_119.jpg,a photo of adult Brown Marmorated Stink Bugs,Brown Marmorated Stink Bugs,0.6171875,정확
+Brown Marmorated Stink Bugs,Image_120.jpg,a photo of egg Corn Borers,Corn Borers,0.2255859375,오류
+Spider Mites,Image_1.jpg,a photo of larva Aphids,Aphids,0.171875,오류
+Spider Mites,Image_2.jpg,a photo of adult Aphids,Aphids,0.205078125,오류
+Spider Mites,Image_3.jpg,a photo of larva Spider Mites,Spider Mites,0.22265625,정확
+Spider Mites,Image_4.jpg,a photo of larva Spider Mites,Spider Mites,0.3515625,정확
+Spider Mites,Image_5.jpg,a photo of adult Aphids,Aphids,0.1533203125,오류
+Spider Mites,Image_6.png,a photo of egg Spider Mites,Spider Mites,0.263671875,정확
+Spider Mites,Image_7.jpg,a photo of adult Aphids,Aphids,0.14453125,오류
+Spider Mites,Image_8.jpg,a photo of egg Aphids,Aphids,0.337890625,오류
+Spider Mites,Image_9.jpg,a photo of adult Spider Mites,Spider Mites,0.26171875,정확
+Spider Mites,Image_10.jpg,a photo of larva Spider Mites,Spider Mites,0.16796875,정확
+Spider Mites,Image_11.jpg,a photo of adult Spider Mites,Spider Mites,0.291015625,정확
+Spider Mites,Image_12.jpg,a photo of pupa Spider Mites,Spider Mites,0.30078125,정확
+Spider Mites,Image_13.jpg,a photo of egg Aphids,Aphids,0.2353515625,오류
+Spider Mites,Image_14.jpg,a photo of adult Spider Mites,Spider Mites,0.26953125,정확
+Spider Mites,Image_15.jpg,a photo of adult Spider Mites,Spider Mites,0.49609375,정확
+Spider Mites,Image_16.jpg,a photo of adult Spider Mites,Spider Mites,0.43359375,정확
+Spider Mites,Image_17.jpg,a photo of egg Spider Mites,Spider Mites,0.296875,정확
+Spider Mites,Image_18.jpg,a photo of egg Spider Mites,Spider Mites,0.26953125,정확
+Spider Mites,Image_19.jpg,a photo of egg Aphids,Aphids,0.271484375,오류
+Spider Mites,Image_20.jpg,a photo of egg Spider Mites,Spider Mites,0.37109375,정확
+Spider Mites,Image_21.jpg,a photo of adult Aphids,Aphids,0.265625,오류
+Spider Mites,Image_22.jpg,a photo of adult Spider Mites,Spider Mites,0.462890625,정확
+Spider Mites,Image_23.jpg,a photo of adult Aphids,Aphids,0.318359375,오류
+Spider Mites,Image_24.jpg,a photo of pupa Spider Mites,Spider Mites,0.271484375,정확
+Spider Mites,Image_25.jpg,a photo of egg Spider Mites,Spider Mites,0.27734375,정확
+Spider Mites,Image_26.jpg,a photo of adult Spider Mites,Spider Mites,0.353515625,정확
+Spider Mites,Image_27.jpg,a photo of egg Western Corn Rootworms,Western Corn Rootworms,0.1083984375,오류
+Spider Mites,Image_28.jpg,a photo of adult Spider Mites,Spider Mites,0.298828125,정확
+Spider Mites,Image_29.jpg,a photo of pupa Aphids,Aphids,0.28125,오류
+Spider Mites,Image_30.jpg,a photo of adult Thrips,Thrips,0.26953125,오류
+Spider Mites,Image_31.jpg,a photo of adult Spider Mites,Spider Mites,0.5546875,정확
+Spider Mites,Image_32.jpg,a photo of pupa Spider Mites,Spider Mites,0.3359375,정확
+Spider Mites,Image_33.jpg,a photo of larva Aphids,Aphids,0.185546875,오류
+Spider Mites,Image_34.jpg,a photo of pupa Spider Mites,Spider Mites,0.236328125,정확
+Spider Mites,Image_35.jpg,a photo of egg Spider Mites,Spider Mites,0.21875,정확
+Spider Mites,Image_36.jpg,a photo of adult Spider Mites,Spider Mites,0.2236328125,정확
+Spider Mites,Image_37.jpg,a photo of adult Spider Mites,Spider Mites,0.25390625,정확
+Spider Mites,Image_38.jpg,a photo of egg Spider Mites,Spider Mites,0.2734375,정확
+Spider Mites,Image_39.jpg,a photo of egg Spider Mites,Spider Mites,0.244140625,정확
+Spider Mites,Image_40.jpg,a photo of adult Aphids,Aphids,0.234375,오류
+Spider Mites,Image_41.jpg,a photo of larva Spider Mites,Spider Mites,0.234375,정확
+Spider Mites,Image_42.jpeg,a photo of egg Spider Mites,Spider Mites,0.3359375,정확
+Spider Mites,Image_43.jpg,a photo of adult Spider Mites,Spider Mites,0.2060546875,정확
+Spider Mites,Image_44.jpg,a photo of larva Spider Mites,Spider Mites,0.181640625,정확
+Spider Mites,Image_45.jpg,a photo of adult Spider Mites,Spider Mites,0.2177734375,정확
+Spider Mites,Image_46.jpg,a photo of egg Aphids,Aphids,0.337890625,오류
+Spider Mites,Image_47.jpg,a photo of egg Spider Mites,Spider Mites,0.197265625,정확
+Spider Mites,Image_48.jpg,a photo of adult Spider Mites,Spider Mites,0.357421875,정확
+Spider Mites,Image_49.jpg,a photo of egg Fruit Flies,Fruit Flies,0.16015625,오류
+Spider Mites,Image_50.jpg,a photo of adult Aphids,Aphids,0.2109375,오류
+Spider Mites,Image_51.JPG,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.12890625,오류
+Spider Mites,Image_52.jpg,a photo of adult Spider Mites,Spider Mites,0.43359375,정확
+Spider Mites,Image_53.jpg,a photo of egg Spider Mites,Spider Mites,0.1494140625,정확
+Spider Mites,Image_54.jpg,a photo of pupa Spider Mites,Spider Mites,0.294921875,정확
+Spider Mites,Image_55.jpg,a photo of adult Spider Mites,Spider Mites,0.259765625,정확
+Spider Mites,Image_56.jpg,a photo of egg Spider Mites,Spider Mites,0.30078125,정확
+Spider Mites,Image_57.jpg,a photo of egg Aphids,Aphids,0.28125,오류
+Spider Mites,Image_58.jpg,a photo of egg Aphids,Aphids,0.2177734375,오류
+Spider Mites,Image_59.jpg,a photo of larva Spider Mites,Spider Mites,0.33203125,정확
+Spider Mites,Image_60.jpg,a photo of Citrus Canker,Citrus Canker,0.33984375,오류
+Spider Mites,Image_61.jpg,a photo of adult Spider Mites,Spider Mites,0.228515625,정확
+Spider Mites,Image_62.gif,a photo of adult Spider Mites,Spider Mites,0.20703125,정확
+Spider Mites,Image_63.jpg,a photo of adult Spider Mites,Spider Mites,0.388671875,정확
+Spider Mites,Image_64.jpg,a photo of adult Aphids,Aphids,0.1640625,오류
+Spider Mites,Image_65.jpg,a photo of adult Aphids,Aphids,0.15234375,오류
+Spider Mites,Image_66.jpg,a photo of larva Spider Mites,Spider Mites,0.26953125,정확
+Spider Mites,Image_67.jpg,a photo of egg Spider Mites,Spider Mites,0.27734375,정확
+Spider Mites,Image_68.jpg,a photo of adult Spider Mites,Spider Mites,0.359375,정확
+Spider Mites,Image_69.jpg,a photo of larva Spider Mites,Spider Mites,0.2314453125,정확
+Spider Mites,Image_70.jpg,a photo of egg Aphids,Aphids,0.19921875,오류
+Spider Mites,Image_71.jpg,a photo of pupa Spider Mites,Spider Mites,0.203125,정확
+Spider Mites,Image_72.jpg,a photo of egg Spider Mites,Spider Mites,0.2392578125,정확
+Spider Mites,Image_73.jpg,a photo of adult Aphids,Aphids,0.1640625,오류
+Spider Mites,Image_74.jpg,a photo of egg Spider Mites,Spider Mites,0.44921875,정확
+Spider Mites,Image_75.jpg,a photo of egg Spider Mites,Spider Mites,0.189453125,정확
+Spider Mites,Image_76.jpg,a photo of larva Spider Mites,Spider Mites,0.35546875,정확
+Spider Mites,Image_77.jpg,a photo of larva Spider Mites,Spider Mites,0.251953125,정확
+Spider Mites,Image_78.jpg,a photo of adult Aphids,Aphids,0.265625,오류
+Spider Mites,Image_79.jpg,a photo of egg Spider Mites,Spider Mites,0.1982421875,정확
+Spider Mites,Image_80.jpg,a photo of egg Spider Mites,Spider Mites,0.3125,정확
+Spider Mites,Image_81.jpeg,a photo of larva Spider Mites,Spider Mites,0.390625,정확
+Spider Mites,Image_82.jpg,a photo of egg Aphids,Aphids,0.265625,오류
+Spider Mites,Image_83.jpg,a photo of egg Spider Mites,Spider Mites,0.2021484375,정확
+Spider Mites,Image_84.jpg,a photo of adult Spider Mites,Spider Mites,0.294921875,정확
+Spider Mites,Image_85.jpg,a photo of egg Spider Mites,Spider Mites,0.3046875,정확
+Spider Mites,Image_86.jpg,a photo of egg Spider Mites,Spider Mites,0.314453125,정확
+Spider Mites,Image_87.jpg,a photo of larva Spider Mites,Spider Mites,0.224609375,정확
+Spider Mites,Image_88.png,a photo of adult Aphids,Aphids,0.1767578125,오류
+Spider Mites,Image_89.jpg,a photo of adult Spider Mites,Spider Mites,0.470703125,정확
+Spider Mites,Image_90.jpg,a photo of adult Aphids,Aphids,0.22265625,오류
+Spider Mites,Image_91.jpg,a photo of pupa Aphids,Aphids,0.203125,오류
+Spider Mites,Image_92.jpg,a photo of larva Spider Mites,Spider Mites,0.376953125,정확
+Spider Mites,Image_93.JPG,a photo of adult Aphids,Aphids,0.298828125,오류
+Spider Mites,Image_94.jpg,a photo of adult Aphids,Aphids,0.1064453125,오류
+Spider Mites,Image_95.jpg,a photo of adult Spider Mites,Spider Mites,0.20703125,정확
+Spider Mites,Image_97.jpg,a photo of adult Aphids,Aphids,0.236328125,오류
+Spider Mites,Image_98.jpg,a photo of egg Spider Mites,Spider Mites,0.271484375,정확
+Spider Mites,Image_99.jpg,a photo of egg Spider Mites,Spider Mites,0.3046875,정확
+Spider Mites,Image_100.jpg,a photo of adult Spider Mites,Spider Mites,0.396484375,정확
+Spider Mites,Image_101.jpg,a photo of egg Spider Mites,Spider Mites,0.333984375,정확
+Spider Mites,Image_102.jpg,a photo of pupa Aphids,Aphids,0.2060546875,오류
+Spider Mites,Image_103.jpg,a photo of egg Thrips,Thrips,0.375,오류
+Spider Mites,Image_104.jpg,a photo of egg Aphids,Aphids,0.2470703125,오류
+Spider Mites,Image_105.png,a photo of larva Spider Mites,Spider Mites,0.22265625,정확
+Spider Mites,Image_106.jpeg,a photo of adult Aphids,Aphids,0.330078125,오류
+Spider Mites,Image_107.jpg,a photo of pupa Spider Mites,Spider Mites,0.1396484375,정확
+Spider Mites,Image_108.jpg,a photo of egg Spider Mites,Spider Mites,0.30859375,정확
+Spider Mites,Image_109.jpg,a photo of egg Aphids,Aphids,0.2216796875,오류
+Spider Mites,Image_110.jpg,a photo of egg Spider Mites,Spider Mites,0.16015625,정확
+Spider Mites,Image_111.jpg,a photo of egg Spider Mites,Spider Mites,0.326171875,정확
+Spider Mites,Image_112.jpg,a photo of pupa Spider Mites,Spider Mites,0.166015625,정확
+Spider Mites,Image_113.jpg,a photo of egg Spider Mites,Spider Mites,0.3359375,정확
+Spider Mites,Image_114.jpg,a photo of larva Spider Mites,Spider Mites,0.1494140625,정확
+Spider Mites,Image_115.jpg,a photo of adult Aphids,Aphids,0.2158203125,오류
+Spider Mites,Image_116.jpg,a photo of egg Spider Mites,Spider Mites,0.328125,정확
+Spider Mites,Image_117.jpg,a photo of larva Spider Mites,Spider Mites,0.35546875,정확
+Spider Mites,Image_118.jpg,a photo of larva Aphids,Aphids,0.2216796875,오류
+Spider Mites,Image_119.jpg,a photo of adult Spider Mites,Spider Mites,0.330078125,정확
+Spider Mites,Image_120.jpg,a photo of egg Spider Mites,Spider Mites,0.25390625,정확
+Tomato Hornworms,Image_1.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.330078125,정확
+Tomato Hornworms,Image_2.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.2890625,정확
+Tomato Hornworms,Image_3.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.294921875,정확
+Tomato Hornworms,Image_4.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.4140625,정확
+Tomato Hornworms,Image_5.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.52734375,정확
+Tomato Hornworms,Image_6.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.376953125,정확
+Tomato Hornworms,Image_7.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.39453125,정확
+Tomato Hornworms,Image_8.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.337890625,정확
+Tomato Hornworms,Image_9.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.263671875,정확
+Tomato Hornworms,Image_10.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.314453125,정확
+Tomato Hornworms,Image_11.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.421875,정확
+Tomato Hornworms,Image_12.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.3515625,정확
+Tomato Hornworms,Image_13.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.314453125,정확
+Tomato Hornworms,Image_14.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.54296875,정확
+Tomato Hornworms,Image_15.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.435546875,정확
+Tomato Hornworms,Image_16.JPG,a photo of adult Tomato Hornworms,Tomato Hornworms,0.35546875,정확
+Tomato Hornworms,Image_17.png,a photo of larva Tomato Hornworms,Tomato Hornworms,0.279296875,정확
+Tomato Hornworms,Image_18.JPG,a photo of egg Tomato Hornworms,Tomato Hornworms,0.40234375,정확
+Tomato Hornworms,Image_19.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.373046875,정확
+Tomato Hornworms,Image_20.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.24609375,정확
+Tomato Hornworms,Image_21.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.61328125,정확
+Tomato Hornworms,Image_22.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.439453125,정확
+Tomato Hornworms,Image_23.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.390625,정확
+Tomato Hornworms,Image_24.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.375,정확
+Tomato Hornworms,Image_25.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.251953125,정확
+Tomato Hornworms,Image_26.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.302734375,정확
+Tomato Hornworms,Image_27.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.625,정확
+Tomato Hornworms,Image_28.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.3984375,정확
+Tomato Hornworms,Image_29.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.34375,정확
+Tomato Hornworms,Image_30.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.294921875,정확
+Tomato Hornworms,Image_32.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.326171875,정확
+Tomato Hornworms,Image_33.JPG,a photo of adult Tomato Hornworms,Tomato Hornworms,0.298828125,정확
+Tomato Hornworms,Image_34.JPG,a photo of egg Tomato Hornworms,Tomato Hornworms,0.4609375,정확
+Tomato Hornworms,Image_35.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.294921875,정확
+Tomato Hornworms,Image_36.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.30859375,정확
+Tomato Hornworms,Image_37.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.20703125,정확
+Tomato Hornworms,Image_38.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.470703125,정확
+Tomato Hornworms,Image_39.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.353515625,정확
+Tomato Hornworms,Image_40.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.15625,정확
+Tomato Hornworms,Image_41.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.33203125,정확
+Tomato Hornworms,Image_42.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.349609375,정확
+Tomato Hornworms,Image_43.JPG,a photo of adult Tomato Hornworms,Tomato Hornworms,0.4609375,정확
+Tomato Hornworms,Image_44.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.2890625,정확
+Tomato Hornworms,Image_45.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.369140625,정확
+Tomato Hornworms,Image_46.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.26171875,정확
+Tomato Hornworms,Image_47.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.484375,정확
+Tomato Hornworms,Image_49.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.404296875,정확
+Tomato Hornworms,Image_50.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.28125,정확
+Tomato Hornworms,Image_51.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.279296875,정확
+Tomato Hornworms,Image_52.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.515625,정확
+Tomato Hornworms,Image_53.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.3203125,정확
+Tomato Hornworms,Image_54.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.37890625,정확
+Tomato Hornworms,Image_55.JPG,a photo of adult Tomato Hornworms,Tomato Hornworms,0.416015625,정확
+Tomato Hornworms,Image_56.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.419921875,정확
+Tomato Hornworms,Image_57.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.375,정확
+Tomato Hornworms,Image_58.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.435546875,정확
+Tomato Hornworms,Image_59.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.419921875,정확
+Tomato Hornworms,Image_60.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.375,정확
+Tomato Hornworms,Image_61.JPG,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.255859375,정확
+Tomato Hornworms,Image_62.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.3203125,정확
+Tomato Hornworms,Image_63.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.3515625,정확
+Tomato Hornworms,Image_64.JPG,a photo of adult Tomato Hornworms,Tomato Hornworms,0.345703125,정확
+Tomato Hornworms,Image_65.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.25,정확
+Tomato Hornworms,Image_66.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.388671875,정확
+Tomato Hornworms,Image_67.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.46875,정확
+Tomato Hornworms,Image_68.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.318359375,정확
+Tomato Hornworms,Image_69.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.3984375,정확
+Tomato Hornworms,Image_70.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.2890625,정확
+Tomato Hornworms,Image_71.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.291015625,정확
+Tomato Hornworms,Image_72.JPG,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.36328125,정확
+Tomato Hornworms,Image_73.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.31640625,정확
+Tomato Hornworms,Image_74.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.361328125,정확
+Tomato Hornworms,Image_75.JPG,a photo of egg Fall Armyworms,Fall Armyworms,0.18359375,오류
+Tomato Hornworms,Image_76.JPG,a photo of adult Tomato Hornworms,Tomato Hornworms,0.353515625,정확
+Tomato Hornworms,Image_77.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.2734375,정확
+Tomato Hornworms,Image_78.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.2099609375,정확
+Tomato Hornworms,Image_79.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.2275390625,정확
+Tomato Hornworms,Image_80.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.5234375,정확
+Tomato Hornworms,Image_81.JPG,a photo of adult Aphids,Aphids,0.4296875,오류
+Tomato Hornworms,Image_82.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1943359375,오류
+Tomato Hornworms,Image_83.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.404296875,정확
+Tomato Hornworms,Image_84.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.361328125,정확
+Tomato Hornworms,Image_85.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.189453125,정확
+Tomato Hornworms,Image_86.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.546875,정확
+Tomato Hornworms,Image_88.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.36328125,정확
+Tomato Hornworms,Image_89.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1982421875,정확
+Tomato Hornworms,Image_92.png,a photo of larva Tomato Hornworms,Tomato Hornworms,0.19140625,정확
+Tomato Hornworms,Image_94.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.09619140625,정확
+Tomato Hornworms,Image_95.jpg,a photo of pupa Aphids,Aphids,0.11376953125,오류
+Tomato Hornworms,Image_96.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.212890625,정확
+Tomato Hornworms,Image_97.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.5,정확
+Tomato Hornworms,Image_98.JPG,a photo of egg Tomato Hornworms,Tomato Hornworms,0.6015625,정확
+Tomato Hornworms,Image_100.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.470703125,정확
+Tomato Hornworms,Image_101.jpg,a photo of pupa Corn Earworms,Corn Earworms,0.1591796875,오류
+Tomato Hornworms,Image_102.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.2578125,정확
+Tomato Hornworms,Image_103.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.43359375,정확
+Tomato Hornworms,Image_104.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.56640625,정확
+Tomato Hornworms,Image_105.JPG,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.294921875,정확
+Tomato Hornworms,Image_106.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.19921875,오류
+Tomato Hornworms,Image_107.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.2119140625,정확
+Tomato Hornworms,Image_109.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.30859375,정확
+Tomato Hornworms,Image_110.JPG,a photo of egg Tomato Hornworms,Tomato Hornworms,0.4921875,정확
+Tomato Hornworms,Image_111.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.328125,정확
+Tomato Hornworms,Image_112.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.419921875,정확
+Tomato Hornworms,Image_114.jpg,a photo of egg Tomato Hornworms,Tomato Hornworms,0.369140625,정확
+Tomato Hornworms,Image_115.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.234375,정확
+Tomato Hornworms,Image_116.jpg,a photo of adult Tomato Hornworms,Tomato Hornworms,0.388671875,정확
+Tomato Hornworms,Image_117.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.1552734375,정확
+Tomato Hornworms,Image_118.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.400390625,정확
+Armyworms,Image_1.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.166015625,오류
+Armyworms,Image_2.jpg,a photo of adult Armyworms,Armyworms,0.27734375,정확
+Armyworms,Image_3.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.283203125,오류
+Armyworms,Image_4.jpg,a photo of adult Armyworms,Armyworms,0.291015625,정확
+Armyworms,Image_5.jpg,a photo of adult Armyworms,Armyworms,0.1533203125,정확
+Armyworms,Image_6.jpg,a photo of pupa Armyworms,Armyworms,0.25390625,정확
+Armyworms,Image_7.jpg,a photo of larva Spider Mites,Spider Mites,0.193359375,오류
+Armyworms,Image_8.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.220703125,오류
+Armyworms,Image_9.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.126953125,오류
+Armyworms,Image_10.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.11279296875,오류
+Armyworms,Image_11.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.162109375,오류
+Armyworms,Image_12.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2138671875,오류
+Armyworms,Image_13.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.158203125,오류
+Armyworms,Image_14.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.18359375,오류
+Armyworms,Image_16.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.39453125,오류
+Armyworms,Image_17.jpg,a photo of adult Spider Mites,Spider Mites,0.201171875,오류
+Armyworms,Image_18.jpg,a photo of adult Armyworms,Armyworms,0.2255859375,정확
+Armyworms,Image_19.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.21484375,오류
+Armyworms,Image_20.jpg,a photo of adult Armyworms,Armyworms,0.12060546875,정확
+Armyworms,Image_21.jpg,a photo of larva Corn Borers,Corn Borers,0.19140625,오류
+Armyworms,Image_22.jpg,a photo of adult Armyworms,Armyworms,0.158203125,정확
+Armyworms,Image_23.jpg,a photo of adult Armyworms,Armyworms,0.30078125,정확
+Armyworms,Image_24.jpg,a photo of egg Armyworms,Armyworms,0.2275390625,정확
+Armyworms,Image_25.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.1767578125,오류
+Armyworms,Image_27.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.296875,오류
+Armyworms,Image_28.jpg,a photo of pupa Colorado Potato Beetles,Colorado Potato Beetles,0.18359375,오류
+Armyworms,Image_29.jpg,a photo of egg Armyworms,Armyworms,0.203125,정확
+Armyworms,Image_30.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.2080078125,오류
+Armyworms,Image_31.jpg,a photo of pupa Cabbage Loopers,Cabbage Loopers,0.236328125,오류
+Armyworms,Image_32.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1064453125,오류
+Armyworms,Image_33.jpg,a photo of larva Tomato Hornworms,Tomato Hornworms,0.19140625,오류
+Armyworms,Image_34.jpg,a photo of adult Armyworms,Armyworms,0.36328125,정확
+Armyworms,Image_35.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.197265625,오류
+Armyworms,Image_36.jpg,a photo of adult Armyworms,Armyworms,0.2119140625,정확
+Armyworms,Image_37.jpg,a photo of egg Aphids,Aphids,0.1396484375,오류
+Armyworms,Image_38.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.3046875,오류
+Armyworms,Image_39.jpg,a photo of adult Armyworms,Armyworms,0.296875,정확
+Armyworms,Image_40.jpg,a photo of pupa Armyworms,Armyworms,0.298828125,정확
+Armyworms,Image_41.JPG,a photo of adult Armyworms,Armyworms,0.255859375,정확
+Armyworms,Image_42.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2080078125,오류
+Armyworms,Image_43.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.240234375,오류
+Armyworms,Image_44.jpg,a photo of egg Armyworms,Armyworms,0.15625,정확
+Armyworms,Image_45.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1220703125,오류
+Armyworms,Image_46.jpg,a photo of adult Armyworms,Armyworms,0.244140625,정확
+Armyworms,Image_47.jpg,a photo of adult Armyworms,Armyworms,0.412109375,정확
+Armyworms,Image_48.jpg,a photo of adult Spider Mites,Spider Mites,0.1064453125,오류
+Armyworms,Image_49.gif,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.1806640625,오류
+Armyworms,Image_50.jpg,a photo of egg Armyworms,Armyworms,0.2109375,정확
+Armyworms,Image_51.jpg,a photo of adult Corn Earworms,Corn Earworms,0.12890625,오류
+Armyworms,Image_52.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.271484375,오류
+Armyworms,Image_53.jpg,a photo of adult Armyworms,Armyworms,0.2294921875,정확
+Armyworms,Image_54.jpg,a photo of adult Armyworms,Armyworms,0.1845703125,정확
+Armyworms,Image_55.jpg,a photo of larva Corn Borers,Corn Borers,0.1357421875,오류
+Armyworms,Image_56.jpg,a photo of pupa Armyworms,Armyworms,0.328125,정확
+Armyworms,Image_57.JPG,a photo of adult Fall Armyworms,Fall Armyworms,0.1728515625,오류
+Armyworms,Image_58.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.251953125,오류
+Armyworms,Image_60.jpg,a photo of larva Corn Borers,Corn Borers,0.16015625,오류
+Armyworms,Image_61.jpg,a photo of adult Armyworms,Armyworms,0.2275390625,정확
+Armyworms,Image_62.jpg,a photo of adult Armyworms,Armyworms,0.326171875,정확
+Armyworms,Image_63.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.125,오류
+Armyworms,Image_64.jpg,a photo of larva Western Corn Rootworms,Western Corn Rootworms,0.412109375,오류
+Armyworms,Image_65.jpg,a photo of larva Thrips,Thrips,0.203125,오류
+Armyworms,Image_66.jpg,a photo of pupa Aphids,Aphids,0.1474609375,오류
+Armyworms,Image_67.bmp,a photo of larva Fall Armyworms,Fall Armyworms,0.1005859375,오류
+Armyworms,Image_68.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1748046875,오류
+Armyworms,Image_69.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.4609375,오류
+Armyworms,Image_70.jpg,a photo of egg Armyworms,Armyworms,0.24609375,정확
+Armyworms,Image_71.jpg,a photo of pupa Fall Armyworms,Fall Armyworms,0.1640625,오류
+Armyworms,Image_72.jpg,a photo of adult Western Corn Rootworms,Western Corn Rootworms,0.357421875,오류
+Armyworms,Image_73.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1298828125,오류
+Armyworms,Image_74.jpg,a photo of adult Armyworms,Armyworms,0.267578125,정확
+Armyworms,Image_75.jpg,a photo of larva Colorado Potato Beetles,Colorado Potato Beetles,0.2060546875,오류
+Armyworms,Image_77.JPG,a photo of larva Fall Armyworms,Fall Armyworms,0.1708984375,오류
+Armyworms,Image_79.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.4765625,오류
+Armyworms,Image_80.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2001953125,오류
+Armyworms,Image_82.jpg,a photo of larva Corn Earworms,Corn Earworms,0.1689453125,오류
+Armyworms,Image_84.jpg,a photo of larva Cabbage Loopers,Cabbage Loopers,0.2490234375,오류
+Armyworms,Image_85.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1533203125,오류
+Armyworms,Image_86.JPG,a photo of adult Fall Armyworms,Fall Armyworms,0.1728515625,오류
+Armyworms,Image_87.jpg,a photo of egg Fall Armyworms,Fall Armyworms,0.1865234375,오류
+Armyworms,Image_89.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.146484375,오류
+Armyworms,Image_90.jpg,a photo of adult Armyworms,Armyworms,0.2275390625,정확
+Armyworms,Image_92.jpg,a photo of pupa Corn Borers,Corn Borers,0.279296875,오류
+Armyworms,Image_96.jpg,a photo of pupa Armyworms,Armyworms,0.201171875,정확
+Armyworms,Image_97.jpg,a photo of adult Armyworms,Armyworms,0.171875,정확
+Armyworms,Image_98.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1318359375,오류
+Armyworms,Image_101.jpg,a photo of adult Armyworms,Armyworms,0.18359375,정확
+Armyworms,Image_104.png,a photo of adult Armyworms,Armyworms,0.255859375,정확
+Armyworms,Image_105.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1572265625,오류
+Armyworms,Image_106.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.357421875,오류
+Armyworms,Image_107.jpg,a photo of larva Fall Armyworms,Fall Armyworms,0.1669921875,오류
+Armyworms,Image_112.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.1416015625,오류
+Armyworms,Image_115.jpg,a photo of pupa Tomato Hornworms,Tomato Hornworms,0.2578125,오류
+Armyworms,Image_116.jpg,a photo of adult Fall Armyworms,Fall Armyworms,0.2197265625,오류
+Armyworms,Image_117.png,a photo of pupa Fall Armyworms,Fall Armyworms,0.166015625,오류
+Armyworms,Image_119.jpg,a photo of egg Armyworms,Armyworms,0.232421875,정확

@@ -1,0 +1,18 @@
+클래스,총_이미지수,정확_개수,정확도(%),평균_신뢰도
+Western Corn Rootworms,100,40,40.0,0.242
+Citrus Canker,104,67,64.4,0.470
+Fruit Flies,101,84,83.2,0.412
+Africanized Honey Bees (Killer Bees),97,93,95.9,0.463
+Aphids,88,59,67.0,0.269
+Colorado Potato Beetles,112,106,94.6,0.500
+Thrips,109,42,38.5,0.279
+Corn Earworms,110,14,12.7,0.230
+Fall Armyworms,113,42,37.2,0.223
+Corn Borers,115,35,30.4,0.247
+Cabbage Loopers,104,7,6.7,0.217
+Brown Marmorated Stink Bugs,114,103,90.4,0.481
+Spider Mites,119,79,66.4,0.269
+Tomato Hornworms,109,103,94.5,0.348
+Armyworms,96,32,33.3,0.217
+
+전체,1591,906,56.9,0.325
